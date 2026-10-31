@@ -75,3 +75,83 @@ A complete assessment requires reviewing the earlier patent's full description, 
 
 1. Target Patent: https://patents.google.com/patent/US11923281B2/en
 2. Earlier Patent: https://patents.google.com/patent/US20160005675A1/en
+
+   
+## 7. Description and Figure Evidence Analysis
+
+### 7.1 Figure 2B – Component Mapping
+
+| Reference Numeral | Component | Technical Observation |
+|---|---|---|
+| 106 | Second heat sink | Provides the second-side heat dissipation structure |
+| 108 | Encapsulation material | Moulded around electronic components while leaving specified surfaces exposed |
+| 110 | First heat sink | Formed from thermally conductive material such as copper or aluminium |
+| 210 | First electronic chip | Attached to the first heat sink |
+| 211 | Soldering layer | Example of an attachment interface |
+| 212 | Interfacing substrate | Contains electrically conductive material on its main surfaces |
+| 215 | Core material layer | May comprise electrically non-conductive or dielectric material |
+| 216, 217 | Conductive outer layers | Provide electrical conductive paths |
+| 220 | Second electronic chip | Attached to the interfacing substrate and second heat sink |
+| 221 | Solder balls / ball bonds | Provide an attachment connection |
+| 222 | Wire bond | Electrically connects the substrate circuitry to contact pads |
+| 223 | Solder layer | Attaches the second chip to the second heat sink |
+| 224 | Optional via | May connect the first and second heat sinks |
+
+### 7.2 Description-Based Evidence
+
+**Evidence A – First Heat Sink**
+
+The description of FIG. 2B identifies the first heat sink (110) as being formed from thermally conductive material, such as copper or aluminium.
+
+**Evidence B – First Chip Attachment**
+
+The first electronic chip (210) is attached to the first heat sink (110), for example, using clip bonding or soldering layer (211).
+
+**Evidence C – Interfacing Substrate**
+
+The interfacing substrate (212) contains electrically conductive material on both main surfaces. It may include a core material layer (215) and conductive outer layers (216, 217).
+
+**Evidence D – Dielectric Core**
+
+The core material layer (215) may comprise electrically non-conductive or dielectric material, such as ceramics or polyimide.
+
+**Evidence E – Second Chip Attachment**
+
+The second electronic chip (220) is attached to the conductive layer of the interfacing substrate using solder balls or ball bonds (221). It is also attached to the second heat sink (106) through solder layer (223).
+
+**Evidence F – Encapsulation**
+
+The encapsulation material (108) is moulded around the electronic components while leaving the first and second heat sinks and contact pads exposed.
+
+### 7.3 Figure 3 – Manufacturing Process
+
+Figure 3 illustrates the following manufacturing steps:
+
+1. Attaching a first electronic chip to a first heat sink.
+2. Electrically contacting an interfacing substrate to the first electronic chip.
+3. Arranging a second electronic chip on the interfacing substrate.
+4. Attaching the second electronic chip to a second heat sink.
+
+### 7.4 Relevance to Target Patent Claim 1
+
+The earlier patent provides detailed disclosure of:
+
+- Two-sided heat dissipation using first and second heat sinks.
+- Two electronic chips arranged around an interfacing substrate.
+- Conductive layers and a dielectric substrate core.
+- Chip-to-heat-sink attachment using soldering or clip bonding.
+- Encapsulation around package components.
+
+However, the dielectric core within the interfacing substrate should not automatically be equated with the electrically insulating material between the second die and heat spreader in the target patent.
+
+The target patent's exposed-pad and protrusion geometry, switching-control relationship, and other claim limitations require separate evidence-based assessment.
+
+### 7.5 Evidence Source
+
+- Patent: US20160005675A1
+- Figure: FIG. 2B – Cross-sectional package view
+- Figure: FIG. 3 – Manufacturing process
+- Source: https://patents.google.com/patent/US20160005675A1/en
+
+**Assessment status:** Preliminary description and drawing review. No final novelty or validity conclusion is made.
+
