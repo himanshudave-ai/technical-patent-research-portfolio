@@ -197,3 +197,34 @@ A feature appearing in an optional embodiment should not automatically be treate
 This evidence matrix records source locations for technical observations. It does not establish that the earlier patent anticipates every limitation of the target patent.
 
 A complete assessment requires claim-by-claim analysis, disclosure review, and applicable patent-law analysis.
+## 9. Target Patent – Claim 1 Evidence Mapping (US11923281B2)
+
+### Objective
+
+To identify supporting technical disclosures in the Detailed Description and drawings for each major limitation of Claim 1.
+
+### Evidence Mapping Table
+
+| No. | Claim 1 Element | Supporting Description / Figure | Reference Numerals | Evidence Assessment |
+|---|---|---|---|---|
+| 1 | Metallic pad | Detailed Description, FIGS. 1A–1E | 22 | Explicitly described |
+| 2 | First and second semiconductor dies attached to metallic pad | Detailed Description, FIGS. 1A–1E | 40, 50, 22 | Explicitly described |
+| 3 | First semiconductor die electrically connected to first set of leads | Detailed Description, wire bond connections | 50, 23, 34, 36 | Functional mapping; lead sets are not separately numbered |
+| 4 | Second semiconductor die electrically connected to second set of leads | Detailed Description, wire bond connections | 40, 23, 35 | Functional mapping; lead sets are not separately numbered |
+| 5 | First semiconductor die electrically connected to second semiconductor die | Detailed Description, electrical connections between bond pads | 37, 39 | Explicitly described |
+| 6 | First semiconductor die controls switching of transistors in second semiconductor die | Detailed Description, FIG. 2 | 50, 40, 39 | Explicitly described functionally |
+| 7 | Heat spreader attached to second semiconductor die through electrically insulating material | Detailed Description, FIGS. 1C and 1E | 80, 40, 98 | Explicitly described |
+| 8 | Heat spreader includes exposed pad and protrusion | Detailed Description, FIGS. 1C–1E | 85, 83 | Explicitly described |
+| 9 | Mold compound covers portions of dies, metallic pad and heat spreader | Detailed Description, FIGS. 1A–1E | 70, 40, 50, 22, 80 | Explicitly described |
+
+### Functional Interpretation
+
+The description identifies semiconductor die 40 as the power-stage die and control die 50 as the die responsible for controlling its switching operation. For mapping the functional relationship in Claim 1, control die 50 is treated as the first semiconductor die and power-stage die 40 as the second semiconductor die.
+
+### Important Observation
+
+The description supports the main structural and functional relationships recited in Claim 1. However, the first and second sets of leads are not separately identified using those exact labels in the cited embodiment. Their mapping requires careful examination of the individual electrical connections.
+
+### Scope Limitation
+
+This is a preliminary technical evidence mapping exercise. It does not establish infringement, anticipation, novelty, or a legal conclusion.
