@@ -155,3 +155,45 @@ The target patent's exposed-pad and protrusion geometry, switching-control relat
 
 **Assessment status:** Preliminary description and drawing review. No final novelty or validity conclusion is made.
 
+
+## 8. Evidence Pinpointing Matrix
+
+| No. | Technical Finding | Evidence Location | Reference Numeral | Evidence Status |
+|---|---|---|---|---|
+| 1 | First heat sink is made of thermally conductive material such as copper or aluminium | Detailed Description, FIG. 2B discussion | 110 | Explicitly described |
+| 2 | First electronic chip is attached to the first heat sink | Detailed Description, FIG. 2B discussion | 210, 110, 211 | Explicitly described |
+| 3 | Interfacing substrate has electrically conductive material on both main surfaces | Detailed Description, FIG. 2B discussion | 212, 216, 217 | Explicitly described |
+| 4 | Interfacing substrate may contain a dielectric core | Detailed Description, FIG. 2B discussion | 215 | Explicitly described as an optional embodiment |
+| 5 | Second electronic chip is attached to the second heat sink through a solder layer | Detailed Description, FIG. 2B discussion | 220, 106, 223 | Explicitly described |
+| 6 | Encapsulation material is moulded around electronic components while leaving heat sinks and contact pads exposed | Detailed Description, FIG. 2B discussion | 108 | Explicitly described |
+| 7 | Manufacturing process includes attaching chips to respective heat sinks and electrically contacting the interfacing substrate | Detailed Description, FIG. 3 discussion | Steps 301–304 | Explicitly described |
+
+### 8.1 Claim 1 Source Verification
+
+**Earlier Patent:** US20160005675A1
+
+**Source Location:** Claims section – Independent Claim 1.
+
+Claim 1 expressly recites:
+- A first heat sink.
+- A second heat sink.
+- First and second electronic chips.
+- An interfacing substrate between the chips.
+- Electrical circuitry on at least one main surface.
+- Electrical connection between one chip and the substrate circuitry.
+- Attachment of each chip to its respective heat sink.
+
+### 8.2 Evidence Interpretation
+
+- Explicitly described: The source text directly identifies the feature or relationship.
+- Optional embodiment: The description presents the feature as one possible implementation.
+- Figure-supported: The drawing illustrates the arrangement, and the description should be read alongside it.
+- Not established: The reviewed passage does not provide sufficient evidence for the feature.
+
+A feature appearing in an optional embodiment should not automatically be treated as a mandatory limitation of Independent Claim 1.
+
+### 8.3 Research Limitation
+
+This evidence matrix records source locations for technical observations. It does not establish that the earlier patent anticipates every limitation of the target patent.
+
+A complete assessment requires claim-by-claim analysis, disclosure review, and applicable patent-law analysis.
