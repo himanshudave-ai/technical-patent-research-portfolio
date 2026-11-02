@@ -228,3 +228,50 @@ The description supports the main structural and functional relationships recite
 ### Scope Limitation
 
 This is a preliminary technical evidence mapping exercise. It does not establish infringement, anticipation, novelty, or a legal conclusion.
+
+## 10. Heat Spreader Structural Relationship Analysis
+
+### Objective
+
+To understand the structural arrangement and thermal-electrical relationship between the semiconductor die, electrically insulating material, and heat spreader in US11923281B2.
+
+### Component Identification
+
+| Component | Reference Numeral | Function |
+|---|---|---|
+| Power-stage semiconductor die | 40 | Generates heat during operation |
+| Heat spreader | 80 | Transfers heat towards the exposed package surface |
+| Exposed pad | 85 | Provides an exposed heat-dissipation surface |
+| Protrusion | 83 | Extends from the exposed pad towards the semiconductor die |
+| Contact pad | 82 | Located adjacent to the electrically insulating material |
+| Electrically insulating material | 98 | Provides electrical isolation and thermal coupling |
+| Gap | 72 | Maintains clearance between the active die surface and contact pad |
+
+### Structural Relationship
+
+The electrically insulating material 98 is positioned between the active side of semiconductor die 40 and contact pad 82 of heat spreader 80.
+
+The heat spreader is thermally coupled to the semiconductor die through this insulating material while remaining electrically isolated from the electronic components.
+
+### Insulating Material Examples
+
+The patent identifies the following possible materials:
+
+1. Mold compound 70
+2. Non-conductive thermal interface material
+3. Ceramic shim
+
+### Technical Observation
+
+The design aims to achieve heat dissipation while maintaining electrical isolation. The gap between the active surface of semiconductor die 40 and contact pad 82 supports the required clearance and thermal coupling arrangement.
+
+### Evidence References
+
+- Detailed Description: FIGS. 1C and 1E
+- Component relationship: Reference numerals 40, 80, 82, 83, 85 and 98
+- Gap dimensions: Description of gap 72
+- Manufacturing arrangement: FIGS. 5A–5C
+
+### Scope Limitation
+
+This section presents a preliminary technical interpretation of the disclosed structure. It does not establish infringement, novelty, anticipation, or a legal conclusion.
