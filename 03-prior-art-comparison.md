@@ -275,3 +275,40 @@ The design aims to achieve heat dissipation while maintaining electrical isolati
 ### Scope Limitation
 
 This section presents a preliminary technical interpretation of the disclosed structure. It does not establish infringement, novelty, anticipation, or a legal conclusion.
+
+## 11. Semiconductor Package Manufacturing Process Analysis
+
+### Objective
+
+To understand the manufacturing sequence disclosed in US11923281B2, with reference to FIGS. 5A–5D and FIG. 6.
+
+### Manufacturing Process Steps
+
+| Step | Manufacturing Operation | Figure Reference | Patent Method Step |
+|---|---|---|---|
+| 1 | Mounting semiconductor dies 40 and 50 on leadframe pads 22 | FIG. 5A | 402 |
+| 2 | Forming wire bonds between dies and leads | FIG. 5A | 404 |
+| 3 | Positioning electrically insulating material 98 near the active side of die 40 | FIG. 5B | 406 |
+| 4 | Aligning heat spreader strip 380 with leadframe strip 320 | FIG. 5B | 408 |
+| 5 | Covering dies and wire bonds with mold compound 70 | FIG. 5C | 410 |
+| 6 | Separating individual packages from the interconnected array | FIG. 5D | 412 |
+
+### Technical Observations
+
+1. Die mounting establishes the mechanical attachment of semiconductor dies to leadframe pads.
+2. Wire bonding establishes electrical connections between dies and leads.
+3. Electrically insulating material 98 provides electrical isolation while supporting thermal coupling.
+4. Heat spreader strip 380 is aligned with leadframe strip 320.
+5. Molding protects package components while leaving portions of the metallic pad and heat spreader exposed.
+6. Singulation separates the interconnected package array into individual semiconductor packages.
+
+### Evidence References
+
+- FIGS. 5A–5D
+- FIG. 6
+- Detailed Description: Manufacturing process
+- Reference numerals: 22, 40, 50, 70, 98, 320 and 380
+
+### Scope Limitation
+
+This is a preliminary technical interpretation of the disclosed manufacturing process and does not establish infringement, novelty, anticipation, or a legal conclusion.
