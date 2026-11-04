@@ -312,3 +312,44 @@ To understand the manufacturing sequence disclosed in US11923281B2, with referen
 ### Scope Limitation
 
 This is a preliminary technical interpretation of the disclosed manufacturing process and does not establish infringement, novelty, anticipation, or a legal conclusion.
+
+## 12. Manufacturing Process vs. Claim Limitations
+
+### Objective
+
+To analyse the relationship between the manufacturing process disclosed in US11923281B2 and the structural limitations recited in Claim 1.
+
+### Claim-to-Process Mapping
+
+| No. | Claim 1 Limitation | Related Manufacturing Step | Figure Reference | Technical Relationship |
+|---|---|---|---|---|
+| 1 | First and second semiconductor dies attached to metallic pad | Die mounting – Step 402 | FIG. 5A | Establishes mechanical attachment of dies to the leadframe pads |
+| 2 | Semiconductor dies electrically connected to leads and to each other | Wire bonding – Step 404 | FIG. 5A | Establishes electrical connections through wire bonds |
+| 3 | Heat spreader attached through electrically insulating material | Insulating material placement – Step 406 | FIG. 5B | Positions insulating material adjacent to the active side of the die |
+| 4 | Heat spreader includes exposed pad and protrusion | Heat spreader placement – Step 408 | FIG. 5B | Aligns the heat spreader strip with the leadframe strip |
+| 5 | Mold compound covers portions of package components | Molding – Step 410 | FIG. 5C | Provides encapsulation while leaving portions of the metallic pad and heat spreader exposed |
+
+### Additional Manufacturing Step
+
+| Manufacturing Operation | Figure Reference | Patent Method Step | Observation |
+|---|---|---|---|
+| Singulation of individual packages | FIG. 5D | 412 | Separates individual packages from the interconnected package array |
+
+### Technical Observations
+
+1. Claim 1 defines a semiconductor package through structural components and their relationships.
+2. The manufacturing description explains operations used to produce the disclosed package.
+3. Die mounting and wire bonding support the structural and electrical relationships described in Claim 1.
+4. Insulating material placement and heat spreader alignment support the disclosed thermal and electrical isolation arrangement.
+5. Molding corresponds to the claimed coverage of portions of the package components.
+6. Singulation is a manufacturing operation described in the specification but is not expressly recited as a limitation in Claim 1.
+
+### Product Claim vs. Manufacturing Disclosure
+
+Claim 1 is a product claim describing the structure of a semiconductor package. FIGS. 5A–5D and FIG. 6 describe manufacturing operations associated with producing the package.
+
+A manufacturing operation should not automatically be treated as a limitation of Claim 1 unless the claim language supports that interpretation.
+
+### Scope Limitation
+
+This is a preliminary technical mapping based on the supplied patent description and Claim 1. It does not establish infringement, anticipation, novelty, or a legal conclusion.
