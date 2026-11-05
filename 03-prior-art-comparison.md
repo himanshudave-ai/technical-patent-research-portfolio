@@ -353,3 +353,47 @@ A manufacturing operation should not automatically be treated as a limitation of
 ### Scope Limitation
 
 This is a preliminary technical mapping based on the supplied patent description and Claim 1. It does not establish infringement, anticipation, novelty, or a legal conclusion.
+
+## 13. Claim 1 Element-by-Element Technical Analysis
+
+### Objective
+
+To analyse the individual technical limitations of Claim 1 of US11923281B2 and understand their functions, relationships, and supporting disclosures.
+
+### Element-by-Element Analysis
+
+| No. | Claim Element | Reference Numeral | Technical Function / Meaning |
+|---|---|---|---|
+| 1 | Metallic pad | 22 | Provides mechanical support for the semiconductor dies |
+| 2 | First and second sets of leads | 23 | Provide electrical connections to external components |
+| 3 | First semiconductor die (control die) | 50 | Controls switching operation of the power-stage die |
+| 4 | Second semiconductor die (power-stage die) | 40 | Contains power switching transistors |
+| 5 | Electrical connection between semiconductor dies | 37, 39 | Establishes electrical communication between the dies |
+| 6 | Heat spreader | 80 | Supports heat dissipation from the active side of the power-stage die |
+| 7 | Electrically insulating material | 98 | Provides electrical isolation and thermal coupling |
+| 8 | Exposed pad | 85 | Provides an exposed surface for heat dissipation |
+| 9 | Protrusion | 83 | Extends from the exposed pad towards the semiconductor die |
+| 10 | Mold compound | 70 | Protects and encapsulates portions of the package components |
+
+### Functional Relationships
+
+1. Control die 50 controls switching of transistors in power-stage die 40.
+2. Both semiconductor dies are attached to metallic pad 22.
+3. Wire bonds establish electrical connections between dies and leads.
+4. Heat spreader 80 is attached to the second semiconductor die through electrically insulating material.
+5. Mold compound covers portions of the semiconductor dies, metallic pad, and heat spreader.
+
+### Supporting Evidence
+
+- FIGS. 1A–1E: Package structure and component arrangement.
+- FIG. 2: Functional relationship between control die and power-stage die.
+- FIG. 5A–5C: Manufacturing and assembly disclosures.
+- Claim 1: Structural limitations of the semiconductor package.
+
+### Technical Observation
+
+Claim 1 combines electrical connectivity, semiconductor switching control, thermal management, electrical isolation, and package encapsulation into a single semiconductor package structure.
+
+### Scope Limitation
+
+This is a preliminary technical interpretation of Claim 1 based on the patent disclosure. It does not establish infringement, anticipation, novelty, or a legal conclusion.
