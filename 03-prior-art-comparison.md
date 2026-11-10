@@ -634,3 +634,68 @@ This analysis is based on the patent disclosure and Claim 1. It is a technical i
 ### 17.7 Scope Limitation
 
 The above analysis summarizes the disclosed structure and its technical relationships. No quantitative performance improvement or legal conclusion is inferred unless supported by specific experimental data or further patent analysis.
+
+## 18. Claim Limitation to Technical Function Mapping
+
+### 18.1 Objective
+
+To map the individual limitations of Claim 1 of US11923281B2 to their disclosed technical roles within the semiconductor package.
+
+### 18.2 Technical Function Mapping
+
+| Claim Limitation | Disclosed Technical Role | Relationship with Other Components |
+|---|---|---|
+| Metallic pad | Supports the semiconductor dies | Both dies are attached to the metallic pad |
+| First semiconductor die | Performs the switching-control function | Controls switching of transistors in the second die |
+| Second semiconductor die | Contains transistors controlled by the first die | Electrically connected to the first die |
+| First set of leads | Provides electrical connection for the first die | Electrically connected to the first die |
+| Second set of leads | Provides electrical connection for the second die | Electrically connected to the second die |
+| Electrical connection between dies | Establishes electrical communication between the dies | Connects the first die and second die |
+| Electrically insulating material | Provides electrical insulation in the die-to-heat-spreader arrangement | Positioned between the second die and heat spreader |
+| Heat spreader | Forms part of the package thermal-management structure | Attached to the second die through insulating material |
+| Exposed pad | Forms an exposed portion of the heat spreader | Part of the heat spreader structure |
+| Protrusion | Forms an extending portion of the heat spreader | Extends from the exposed pad |
+| Mold compound | Covers specified package components | Covers portions of the dies, metallic pad and heat spreader |
+
+### 18.3 Component Relationship Analysis
+
+**1. Die-to-Pad Relationship**
+
+Both semiconductor dies are attached to the common metallic pad. This establishes the disclosed mechanical support arrangement.
+
+**2. Die-to-Die Relationship**
+
+The first die is electrically connected to the second die and controls switching of transistors in the second die.
+
+**3. Die-to-Heat-Spreader Relationship**
+
+The heat spreader is attached to the second die through electrically insulating material. This is an important structural relationship in Claim 1.
+
+**4. Heat Spreader Geometry**
+
+The heat spreader includes an exposed pad and a protrusion extending from the exposed pad.
+
+**5. Package Encapsulation**
+
+The mold compound covers specified portions of the package components and forms part of the overall package structure.
+
+### 18.4 Integrated Package Architecture
+
+Claim 1 describes an integrated arrangement involving:
+
+1. Mechanical support through a common metallic pad.
+2. Electrical functionality through dies, leads and interconnections.
+3. Switching control through the first semiconductor die.
+4. Electrical insulation between the second die and heat spreader.
+5. Heat spreader integration through an exposed pad and protrusion.
+6. Package integration through mold compound.
+
+### 18.5 Preliminary Technical Assessment
+
+The individual limitations of Claim 1 define an interconnected semiconductor package architecture. Their technical significance should be assessed through both their individual functions and their relationships with other components.
+
+A limitation should not be analyzed in isolation when its position or connection with another component contributes to the disclosed arrangement.
+
+### 18.6 Scope Limitation
+
+This mapping is a technical interpretation of the limitations of Claim 1. It does not establish quantitative thermal performance, electrical isolation performance, reliability improvement, novelty, inventive step or any legal conclusion. Specific performance benefits should only be stated when supported by the patent disclosure or experimental evidence.
