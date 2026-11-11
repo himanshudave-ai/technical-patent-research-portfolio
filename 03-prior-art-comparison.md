@@ -699,3 +699,82 @@ A limitation should not be analyzed in isolation when its position or connection
 ### 18.6 Scope Limitation
 
 This mapping is a technical interpretation of the limitations of Claim 1. It does not establish quantitative thermal performance, electrical isolation performance, reliability improvement, novelty, inventive step or any legal conclusion. Specific performance benefits should only be stated when supported by the patent disclosure or experimental evidence.
+
+## 19. Technical Interaction and Component Flow Analysis
+
+### 19.1 Objective
+
+To analyze the electrical and physical relationships between the major components described in Claim 1 of US11923281B2.
+
+### 19.2 Electrical Interaction Between Semiconductor Dies
+
+The target patent describes two semiconductor dies with an electrical connection between them.
+
+The first semiconductor die controls switching of transistors in the second semiconductor die.
+
+**Functional Relationship:**
+
+1. The first die performs the switching-control function.
+2. The second die contains the transistors being controlled.
+3. An electrical connection is established between the two dies.
+
+**Technical Observation:** The patent establishes a control relationship between the two dies. The exact internal signal protocol, waveform and communication details should not be assumed unless expressly supported by the description.
+
+### 19.3 Electrical Connection Through Leads
+
+Claim 1 describes two sets of leads:
+
+- The first semiconductor die is electrically connected to the first set of leads.
+- The second semiconductor die is electrically connected to the second set of leads.
+
+**Technical Observation:** The two lead sets provide separate electrical connection paths for the respective semiconductor dies.
+
+The precise external circuit configuration and signal assignments are not established by these limitations alone.
+
+### 19.4 Physical and Thermal Component Relationship
+
+The patent describes the following physical arrangement:
+
+1. Both semiconductor dies are attached to a common metallic pad.
+2. Electrically insulating material is positioned between the second die and the heat spreader.
+3. The heat spreader is attached to the second die through the insulating material.
+4. The heat spreader includes an exposed pad and a protrusion extending from the exposed pad.
+
+**Technical Observation:** These limitations define the physical relationship between the semiconductor dies, metallic pad, insulating material and heat spreader.
+
+The exact direction and magnitude of heat flow, thermal resistance and temperature improvement should not be inferred without supporting technical data.
+
+### 19.5 Package Integration Relationship
+
+Claim 1 further describes mold compound covering specified portions of:
+
+- First semiconductor die.
+- Second semiconductor die.
+- Metallic pad.
+- Heat spreader.
+
+**Technical Observation:** Mold compound forms part of the integrated package structure. The claim specifies partial coverage rather than requiring every surface of these components to be completely encapsulated.
+
+### 19.6 Consolidated Component Interaction Matrix
+
+| Component Relationship | Type of Interaction | Disclosed Relationship |
+|---|---|---|
+| First die – Second die | Electrical and functional | Electrically connected; first die controls switching in second die |
+| First die – First lead set | Electrical | First die electrically connected to first lead set |
+| Second die – Second lead set | Electrical | Second die electrically connected to second lead set |
+| Dies – Metallic pad | Physical attachment | Both dies attached to metallic pad |
+| Second die – Insulating material – Heat spreader | Physical and electrical insulation arrangement | Heat spreader attached through insulating material |
+| Exposed pad – Protrusion | Structural | Protrusion extends from exposed pad |
+| Package components – Mold compound | Package integration | Mold compound covers specified portions |
+
+### 19.7 Preliminary Technical Assessment
+
+Claim 1 defines both electrical and physical relationships among the semiconductor package components.
+
+The electrical relationships establish die interconnection, switching control and lead connections. The physical relationships define die support, insulating material placement, heat spreader integration and package molding.
+
+These relationships should be considered together when interpreting the overall package architecture.
+
+### 19.8 Scope Limitation
+
+This analysis is limited to the relationships disclosed in Claim 1 and the corresponding technical description. It does not establish a specific signal protocol, circuit-level operation, quantitative heat-flow path, thermal performance improvement or reliability outcome. Such conclusions require additional supporting disclosure or experimental evidence.
