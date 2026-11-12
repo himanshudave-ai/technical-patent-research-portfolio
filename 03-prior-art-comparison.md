@@ -778,3 +778,70 @@ These relationships should be considered together when interpreting the overall 
 ### 19.8 Scope Limitation
 
 This analysis is limited to the relationships disclosed in Claim 1 and the corresponding technical description. It does not establish a specific signal protocol, circuit-level operation, quantitative heat-flow path, thermal performance improvement or reliability outcome. Such conclusions require additional supporting disclosure or experimental evidence.
+
+## 20. Claim Scope and Specification Support Analysis
+
+### 20.1 Objective
+
+To distinguish the express limitations of Claim 1 of US11923281B2 from additional technical details described in the patent specification.
+
+### 20.2 Claim Limitations vs Specification Details
+
+| Technical Feature | Claim 1 Status | Specification Support / Observation |
+|---|---|---|
+| First and second semiconductor dies | Expressly recited | Detailed description identifies the power-stage die and control die |
+| Common metallic pad | Expressly recited | Reference numeral 22 |
+| Electrical connection between dies | Expressly recited | Wire-bond connections are described |
+| First die controls switching in second die | Expressly recited | Description explains the control die and power-stage die functions |
+| Electrically insulating material | Expressly recited | Reference numeral 98; examples include mold compound, non-conductive thermal interface material and ceramic shim |
+| Heat spreader | Expressly recited | Reference numeral 80 |
+| Exposed pad and protrusion | Expressly recited | Reference numerals 85 and 83 |
+| Mold compound | Expressly recited | Reference numeral 70 |
+| Gap between die and contact pad | Not expressly recited as a limitation in examined Claim 1 | A gap is described in the specification, with example dimensions |
+| Specific gap range of 50–500 μm | Not expressly recited in examined Claim 1 | Described as an example in the specification |
+| Particular insulating material examples | Not individually required by examined Claim 1 | Disclosed as possible implementations |
+
+### 20.3 Understanding Claim Limitations
+
+A claim defines the combination of technical limitations for which patent protection is sought.
+
+For Claim 1, the analysis should focus on the expressly recited components and their relationships, including:
+
+1. Both semiconductor dies attached to the metallic pad.
+2. Electrical connections between dies and their respective lead sets.
+3. Switching control performed by the first die.
+4. Heat spreader attachment through electrically insulating material.
+5. Exposed pad and protrusion arrangement.
+6. Mold compound covering specified portions of package components.
+
+### 20.4 Understanding Specification Details
+
+The patent description provides additional implementation details that help explain the disclosed package.
+
+Examples include:
+
+- Reference numerals identifying package components.
+- Wire-bond arrangements.
+- Possible insulating material implementations.
+- Example gap dimensions.
+- Manufacturing steps and package assembly details.
+
+These details help interpret the disclosed technology but should not automatically be treated as separate limitations of Claim 1.
+
+### 20.5 Important Distinction: Claim vs Embodiment
+
+**Claim limitation:** A technical feature expressly required by the claim language.
+
+**Specification detail:** Additional information explaining possible structures, implementations or embodiments.
+
+A specific example in the description does not automatically become a mandatory limitation of the claim.
+
+### 20.6 Preliminary Technical Assessment
+
+Claim 1 defines the required semiconductor package arrangement through its recited components and relationships. The specification provides additional implementation details, including component reference numerals, insulating material examples, gap dimensions and manufacturing information.
+
+A technical patent analyst should maintain a clear distinction between express claim requirements and optional or exemplary disclosure details.
+
+### 20.7 Scope Limitation
+
+This section provides a preliminary technical reading of Claim 1 and the corresponding description. It is not a formal claim construction or legal opinion. Any final claim-scope assessment requires review of the complete patent record and applicable legal standards.
