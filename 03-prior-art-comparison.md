@@ -845,3 +845,82 @@ A technical patent analyst should maintain a clear distinction between express c
 ### 20.7 Scope Limitation
 
 This section provides a preliminary technical reading of Claim 1 and the corresponding description. It is not a formal claim construction or legal opinion. Any final claim-scope assessment requires review of the complete patent record and applicable legal standards.
+
+## 21. Manufacturing Process and Structure Correlation Analysis
+
+### 21.1 Objective
+
+To correlate the manufacturing steps described in US11923281B2 with the resulting semiconductor package components and the structural limitations of Claim 1.
+
+### 21.2 Manufacturing Process Overview
+
+The patent describes a manufacturing sequence through FIGS. 5A–5D and FIG. 6. The disclosed process includes the following steps:
+
+1. Die mounting.
+2. Wire bonding.
+3. Placement of electrically insulating material.
+4. Heat spreader strip alignment.
+5. Molding.
+6. Singulation.
+7. PCB and heatsink assembly.
+
+### 21.3 Manufacturing Step to Package Structure Mapping
+
+| Manufacturing Step | Process Description | Resulting Structure / Relationship |
+|---|---|---|
+| Die mounting (402) | Mounting the semiconductor dies | First and second dies attached to metallic pad |
+| Wire bonding (404) | Establishing electrical connections | Electrical connections between dies and lead sets |
+| Insulating material placement (406) | Placing electrically insulating material | Insulating material positioned in the die-to-heat-spreader arrangement |
+| Heat spreader strip alignment (408) | Aligning the heat spreader strip | Heat spreader positioned for package integration |
+| Molding (410) | Applying mold compound | Mold compound covers specified package portions |
+| Singulation (412) | Separating the molded assembly | Individual semiconductor packages |
+| PCB/heatsink assembly (414) | Assembling the package with external components | Package integrated into a PCB/heatsink assembly |
+
+### 21.4 Manufacturing Process and Claim 1 Correlation
+
+**1. Die Mounting**
+
+The die mounting step is associated with the Claim 1 limitation requiring both semiconductor dies to be attached to the metallic pad.
+
+**2. Electrical Interconnection**
+
+The wire bonding step supports the disclosed electrical connections between the semiconductor dies and their respective lead sets, as well as the interconnection between the dies.
+
+**3. Insulating Material Placement**
+
+The placement step corresponds to the claimed electrically insulating material in the arrangement between the second die and heat spreader.
+
+**4. Heat Spreader Integration**
+
+The heat spreader alignment step contributes to the disclosed physical integration of the heat spreader with the package structure.
+
+**5. Molding**
+
+The molding step corresponds to the mold compound covering specified portions of the package components.
+
+**6. Singulation and External Assembly**
+
+Singulation and PCB/heatsink assembly are disclosed manufacturing or assembly operations. They should not automatically be treated as separate structural limitations of Claim 1.
+
+### 21.5 Consolidated Correlation Matrix
+
+| Claim 1 Structural Feature | Related Manufacturing Activity |
+|---|---|
+| Two dies attached to metallic pad | Die mounting |
+| Electrical connections to lead sets | Wire bonding |
+| Electrical connection between dies | Wire bonding |
+| Insulating material between second die and heat spreader | Insulating material placement |
+| Heat spreader integration | Heat spreader strip alignment |
+| Mold compound coverage | Molding |
+
+### 21.6 Preliminary Technical Assessment
+
+The manufacturing disclosure explains how several important structural relationships of the semiconductor package are formed.
+
+Die mounting, wire bonding, insulating material placement, heat spreader alignment and molding have corresponding relationships with the package features recited in Claim 1.
+
+Singulation and PCB/heatsink assembly provide additional manufacturing and integration context but should be distinguished from the express structural limitations of the apparatus claim.
+
+### 21.7 Scope Limitation
+
+This analysis is a preliminary correlation of the disclosed manufacturing process with Claim 1. It does not establish that every manufacturing step is mandatory under Claim 1, nor does it establish manufacturing yield, process tolerances, thermal performance or reliability improvements. Such conclusions require additional supporting evidence.
