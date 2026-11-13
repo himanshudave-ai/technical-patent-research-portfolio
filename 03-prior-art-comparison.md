@@ -924,3 +924,47 @@ Singulation and PCB/heatsink assembly provide additional manufacturing and integ
 ### 21.7 Scope Limitation
 
 This analysis is a preliminary correlation of the disclosed manufacturing process with Claim 1. It does not establish that every manufacturing step is mandatory under Claim 1, nor does it establish manufacturing yield, process tolerances, thermal performance or reliability improvements. Such conclusions require additional supporting evidence.
+
+## 22. Technical Advantages and Supporting Evidence Analysis
+
+### 22.1 Objective
+
+To identify the potential technical significance of the structural features disclosed in US11923281B2 and distinguish expressly supported advantages from preliminary technical interpretations.
+
+### 22.2 Feature-to-Benefit Analysis
+
+| Disclosed Technical Feature | Potential Technical Significance | Supporting Patent Disclosure |
+|---|---|---|
+| Two semiconductor dies mounted on a common metallic pad | Provides a shared mechanical support arrangement for both dies | Description of package 10 and metallic pad 22 |
+| First die controls switching of transistors in the second die | Establishes a control relationship between the control die and power-stage die | Description of control die 50 and power-stage die 40 |
+| Electrical interconnections between dies and lead sets | Provides electrical paths between package components and external connections | Wire bonds 34, 35, 36, 37 and 39 |
+| Electrically insulating material between the second die and heat spreader | Provides electrical separation at the die-to-heat-spreader interface | Description of insulating material 98 |
+| Heat spreader with exposed pad and protrusion | Provides a defined heat-spreader structure for thermal integration | Description of heat spreader 80, exposed pad 85 and protrusion 83 |
+| Mold compound covering portions of package components | Integrates and encapsulates package components | Description of mold compound 70 |
+
+### 22.3 Evidence-Based Technical Observations
+
+1. The common metallic pad provides a shared support structure for the two semiconductor dies.
+2. The control die and power-stage die have different disclosed functions, with the first die controlling switching of transistors in the second die.
+3. Wire bonds establish electrical connections among the dies and lead sets.
+4. The insulating material is positioned between the second semiconductor die and the heat spreader.
+5. The heat spreader includes an exposed pad and a protrusion, which are expressly described structural features.
+6. Mold compound covers portions of the semiconductor package components.
+
+### 22.4 Express Disclosure vs Technical Interpretation
+
+The presence, position and connectivity of the package components are treated as disclosed structural information.
+
+Potential benefits such as improved thermal performance, reduced electrical interference, increased reliability or improved switching efficiency should not be treated as proven results unless supported by specific patent disclosure or experimental evidence.
+
+The technical significance of a feature may be discussed as an engineering interpretation, but it must remain distinct from an expressly stated patent advantage.
+
+### 22.5 Preliminary Technical Assessment
+
+The patent discloses an integrated semiconductor package architecture involving a control die, a power-stage die, a common metallic pad, electrical interconnections, an electrically insulating interface and a heat spreader.
+
+These features collectively describe the package structure and its electrical and thermal integration. Their actual performance advantages cannot be quantified from the identified structural disclosure alone.
+
+### 22.6 Scope Limitation
+
+This analysis is a preliminary technical interpretation of the patent disclosure. It does not establish measured thermal performance, switching efficiency, reliability improvement, infringement, novelty, inventive step or any legal conclusion. Such assessments require additional supporting disclosure, experimental data and appropriate legal analysis.
