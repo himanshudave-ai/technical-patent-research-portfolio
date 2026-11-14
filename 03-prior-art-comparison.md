@@ -1037,3 +1037,78 @@ The disclosed structural relationships should be considered together when interp
 ### 23.5 Scope Limitation
 
 This mapping is based on the identified patent disclosure and provides a preliminary engineering interpretation. It does not establish that every identified engineering requirement is a problem expressly stated by the patent, nor does it prove a measured performance improvement, novelty, inventive step, infringement or any legal conclusion.
+
+## 24. Claim 1 vs Technical Problem-Solution Mapping
+
+### 24.1 Objective
+
+To analyze the individual limitations of Claim 1 of US11923281B2 and map them to their disclosed technical roles and structural relationships within the semiconductor package.
+
+### 24.2 Claim Limitation Mapping
+
+| Claim 1 Limitation | Disclosed Technical Role | Structural or Functional Relationship |
+|---|---|---|
+| Metallic pad | Supports the semiconductor dies | Both semiconductor dies are attached to the metallic pad |
+| First set of leads | Provides electrical connection for the first die | Electrically connected to the first semiconductor die |
+| Second set of leads | Provides electrical connection for the second die | Electrically connected to the second semiconductor die |
+| First semiconductor die | Performs the switching-control function | Controls switching of transistors in the second die |
+| Second semiconductor die | Contains transistors whose switching is controlled | Electrically connected to the first die |
+| Electrical connection between the two dies | Establishes an electrical path between the dies | Connects the control and power-stage functions |
+| Electrically insulating material | Provides an insulating interface | Positioned between the second die and heat spreader |
+| Heat spreader | Forms the disclosed heat-spreader structure | Attached to the second die through electrically insulating material |
+| Exposed pad | Forms an exposed portion of the heat spreader | Part of the heat-spreader structure |
+| Protrusion | Forms an extending structural portion | Extends from the exposed pad |
+| Mold compound | Covers portions of the package components | Covers portions of both dies, metallic pad and heat spreader |
+
+### 24.3 Functional Relationship Analysis
+
+**1. Die Support Relationship**
+
+Both semiconductor dies are attached to the common metallic pad. This defines their shared mounting arrangement within the package.
+
+**2. Control Relationship**
+
+The first semiconductor die controls switching of transistors in the second semiconductor die. This is an expressly recited functional relationship in Claim 1.
+
+**3. Electrical Interconnection Relationship**
+
+The first and second dies are electrically connected and are also connected to their respective lead sets. These connections establish the electrical architecture of the package.
+
+**4. Insulation and Heat-Spreader Relationship**
+
+The heat spreader is attached to the second die through electrically insulating material. This defines the structural relationship at the die-to-heat-spreader interface.
+
+**5. Package Encapsulation Relationship**
+
+The mold compound covers specified portions of the dies, metallic pad and heat spreader, defining the molded package arrangement.
+
+### 24.4 Technical Problem-Solution Interpretation
+
+The claim combines several engineering requirements within one semiconductor package:
+
+1. Supporting two semiconductor dies on a common metallic pad.
+2. Establishing a control relationship between the dies.
+3. Providing electrical interconnections to the lead sets.
+4. Providing electrical insulation at the heat-spreader interface.
+5. Integrating an exposed pad and protrusion into the heat-spreader structure.
+6. Covering specified package components with mold compound.
+
+The corresponding structural and functional relationships are expressly recited in Claim 1. However, these requirements should not automatically be treated as separately stated problems in the patent.
+
+### 24.5 Significance for Prior-Art Comparison
+
+When comparing Claim 1 with US20160005675A1, the analysis should consider not only whether similar components are disclosed, but also whether their structural positions and functional relationships correspond.
+
+Particular attention should be given to:
+
+- Common metallic pad supporting both dies.
+- Control relationship between the first and second dies.
+- Insulating material between the second die and heat spreader.
+- Exposed pad and protrusion arrangement.
+- Electrical interconnection and mold compound limitations.
+
+A component-level similarity alone does not establish disclosure of the complete claimed combination.
+
+### 24.6 Scope Limitation
+
+This is a preliminary technical mapping of Claim 1 based on the identified patent disclosure. It does not establish anticipation, novelty, inventive step, infringement or any legal conclusion. A complete assessment requires review of the full claim language, specification, drawings and relevant prior art.
