@@ -968,3 +968,72 @@ These features collectively describe the package structure and its electrical an
 ### 22.6 Scope Limitation
 
 This analysis is a preliminary technical interpretation of the patent disclosure. It does not establish measured thermal performance, switching efficiency, reliability improvement, infringement, novelty, inventive step or any legal conclusion. Such assessments require additional supporting disclosure, experimental data and appropriate legal analysis.
+
+## 23. Technical Feature-to-Problem-to-Solution Mapping
+
+### 23.1 Objective
+
+To map the important technical features disclosed in US11923281B2 to the engineering problems they address and the corresponding structural solutions described in the patent.
+
+### 23.2 Problem-Feature-Solution Matrix
+
+| Technical Problem or Engineering Requirement | Relevant Patent Feature | Disclosed Structural Solution |
+|---|---|---|
+| Supporting multiple semiconductor dies within one package | Metallic pad 22 | First and second semiconductor dies are attached to a common metallic pad |
+| Coordinating control and power switching functions | First and second semiconductor dies | First die controls switching of transistors in the second die |
+| Establishing electrical connections within the package | Wire bonds and lead sets | Electrical connections between dies and respective lead sets |
+| Providing electrical insulation at the heat-spreader interface | Electrically insulating material 98 | Insulating material is positioned between the second die and heat spreader 80 |
+| Integrating a heat-spreader structure | Heat spreader 80, exposed pad 85 and protrusion 83 | Heat spreader includes an exposed pad and a protrusion |
+| Integrating package components into a molded structure | Mold compound 70 | Mold compound covers portions of the dies, metallic pad and heat spreader |
+
+### 23.3 Detailed Technical Mapping
+
+**1. Multiple Die Support**
+
+Engineering Requirement: The package includes two semiconductor dies that require mechanical support.
+
+Disclosed Solution: Both semiconductor dies are attached to a common metallic pad 22.
+
+Technical Observation: The common pad provides a shared mounting structure for the two dies.
+
+**2. Control and Power Switching Relationship**
+
+Engineering Requirement: The package must establish a control relationship between the two semiconductor dies.
+
+Disclosed Solution: The first semiconductor die controls switching of transistors in the second semiconductor die.
+
+Technical Observation: The patent describes separate control and power-stage functions within the package.
+
+**3. Electrical Interconnection**
+
+Engineering Requirement: Electrical connections are required between the dies and the package lead sets.
+
+Disclosed Solution: Wire bonds provide the disclosed electrical interconnections.
+
+Technical Observation: The wire-bond arrangement connects the semiconductor components and external lead structures.
+
+**4. Electrical Insulation at the Heat-Spreader Interface**
+
+Engineering Requirement: Electrical insulation is provided between the second semiconductor die and the heat spreader.
+
+Disclosed Solution: Electrically insulating material 98 is positioned at the interface between the second die and heat spreader 80.
+
+Technical Observation: The insulating material forms part of the disclosed die-to-heat-spreader arrangement.
+
+**5. Heat-Spreader Integration**
+
+Engineering Requirement: The package includes a defined heat-spreader structure.
+
+Disclosed Solution: Heat spreader 80 includes exposed pad 85 and protrusion 83.
+
+Technical Observation: These features define the disclosed geometry of the heat spreader.
+
+### 23.4 Consolidated Technical Understanding
+
+The patent describes a semiconductor package architecture combining die support, switching control, electrical interconnection, electrical insulation and heat-spreader integration.
+
+The disclosed structural relationships should be considered together when interpreting the technical architecture rather than treating each component as an isolated feature.
+
+### 23.5 Scope Limitation
+
+This mapping is based on the identified patent disclosure and provides a preliminary engineering interpretation. It does not establish that every identified engineering requirement is a problem expressly stated by the patent, nor does it prove a measured performance improvement, novelty, inventive step, infringement or any legal conclusion.
