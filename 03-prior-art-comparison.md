@@ -1112,3 +1112,47 @@ A component-level similarity alone does not establish disclosure of the complete
 ### 24.6 Scope Limitation
 
 This is a preliminary technical mapping of Claim 1 based on the identified patent disclosure. It does not establish anticipation, novelty, inventive step, infringement or any legal conclusion. A complete assessment requires review of the full claim language, specification, drawings and relevant prior art.
+
+## 25. Claim Combination and Structural Relationship Analysis
+
+### 25.1 Objective
+
+To analyze how the individual limitations of Claim 1 of US11923281B2 work together to define the disclosed semiconductor package architecture.
+
+### 25.2 Component Combination
+
+The claimed package includes the following major component groups:
+
+1. Die support structure through the metallic pad.
+2. Electrical functionality through two semiconductor dies and lead sets.
+3. Switching control relationship between the first and second dies.
+4. Electrical insulation between the second die and heat spreader.
+5. Heat spreader structure consisting of an exposed pad and protrusion.
+6. Mold compound covering specified portions of the package components.
+
+### 25.3 Structural Relationships
+
+The important relationships include:
+
+- Both semiconductor dies are attached to the metallic pad.
+- Each die is electrically connected to its respective lead set.
+- The first semiconductor die is electrically connected to the second die.
+- The first die controls switching of transistors in the second die.
+- The heat spreader is attached to the second die through electrically insulating material.
+- The mold compound covers specified portions of the package components.
+
+### 25.4 Importance of the Combined Arrangement
+
+The technical architecture should be evaluated as a combination of components and their relationships rather than as a simple list of individual features.
+
+A similar component in another patent does not automatically establish disclosure of the same complete structural arrangement.
+
+### 25.5 Preliminary Technical Assessment
+
+Claim 1 defines an interconnected semiconductor package in which die support, electrical connections, switching control, electrical insulation and heat-spreader integration are combined.
+
+The technical significance of the combination should be assessed using the complete claim language and supporting specification.
+
+### 25.6 Scope Limitation
+
+This section provides a preliminary technical interpretation of the claimed component combination. It does not establish novelty, inventive step, anticipation, infringement or any other legal conclusion. Such conclusions require a complete prior-art and legal analysis.
