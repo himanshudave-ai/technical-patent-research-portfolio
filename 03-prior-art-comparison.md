@@ -1216,3 +1216,69 @@ The identified structural features provide a basis for engineering analysis. How
 ### 26.7 Scope Limitation
 
 This section provides a preliminary technical assessment based on the identified patent disclosure. It does not establish measured performance improvement, novelty, inventive step, anticipation, infringement or any legal conclusion.
+
+## 27. Evidence Evaluation Framework for Claim 1
+
+### 27.1 Purpose of Evidence Evaluation
+
+Evidence evaluation determines whether a patent document supports a particular claim limitation through its disclosed structure, function and component relationships.
+
+A component name alone is not sufficient to establish a complete technical correspondence.
+
+### 27.2 Four-Level Evidence Review
+
+Each claim limitation should be reviewed through the following questions:
+
+1. **Element Identification:** Is the required component expressly disclosed?
+2. **Structural Correspondence:** Does the disclosed physical arrangement correspond to the claimed structure?
+3. **Relationship Correspondence:** Are the required connections and positional relationships disclosed?
+4. **Functional Correspondence:** Is the claimed function supported by the document?
+
+### 27.3 Evidence Evaluation of Target Claim 1
+
+| Claim 1 limitation | Evidence identified in target patent | Evaluation |
+|---|---|---|
+| Metallic pad | Both semiconductor dies attached to metallic pad | Expressly recited |
+| First and second semiconductor dies | Both dies attached to common metallic pad | Expressly recited |
+| Electrical connection to lead sets | Each die connected to its respective lead set | Expressly recited |
+| Electrical connection between dies | First die electrically connected to second die | Expressly recited |
+| Switching control | First die controls switching of transistors in second die | Expressly recited |
+| Electrically insulating material | Heat spreader attached to second die through insulating material | Expressly recited |
+| Exposed pad and protrusion | Both features included in heat spreader limitation | Expressly recited |
+| Mold compound | Covers portions of specified package components | Expressly recited |
+
+### 27.4 Evidence Strength Categories
+
+For consistent technical analysis, evidence may be classified as:
+
+- **Express Disclosure:** The feature is directly stated in the claim or specification.
+- **Structural Support:** The feature is supported by a disclosed drawing or described arrangement.
+- **Functional Support:** The document expressly describes the relevant function.
+- **Not Established:** The examined passage does not provide sufficient support for the feature.
+
+These categories describe the evidence identified during technical review. They do not independently determine patentability or legal claim scope.
+
+### 27.5 Application to Prior-Art Analysis
+
+When reviewing US20160005675A1 against US11923281B2, each limitation should be evaluated separately.
+
+Particular attention should be given to:
+
+- Common metallic pad supporting both dies.
+- Switching-control relationship between the two dies.
+- Electrical interconnection between the dies.
+- Insulating material between the second die and heat spreader.
+- Exposed pad and protrusion arrangement.
+- Mold compound coverage.
+
+A similar component in an earlier document does not automatically establish the same claimed structural relationship.
+
+### 27.6 Preliminary Technical Assessment
+
+Evidence evaluation should consider the complete combination of claim limitations rather than isolated component similarities.
+
+The technical comparison should distinguish express disclosure, structural support, functional support and features not established in the examined prior-art passage.
+
+### 27.7 Scope Limitation
+
+This section provides a technical evidence-review framework. It does not establish anticipation, novelty, inventive step, infringement or any other legal conclusion. Such conclusions require complete claim construction, prior-art review and applicable legal analysis.
