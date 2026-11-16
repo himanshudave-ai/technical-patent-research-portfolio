@@ -1282,3 +1282,67 @@ The technical comparison should distinguish express disclosure, structural suppo
 ### 27.7 Scope Limitation
 
 This section provides a technical evidence-review framework. It does not establish anticipation, novelty, inventive step, infringement or any other legal conclusion. Such conclusions require complete claim construction, prior-art review and applicable legal analysis.
+
+## 28. Detailed Prior-Art Claim Mapping – US20160005675A1
+
+### 28.1 Objective
+
+This section compares the limitations of Claim 1 of US11923281B2 with Claim 1 of the earlier patent US20160005675A1.
+
+The purpose is to identify component-level similarities, structural differences and relationships that are not established in the examined earlier claim.
+
+### 28.2 Element-by-Element Comparison
+
+| Target Claim 1 limitation – US11923281B2 | Earlier Patent Disclosure – US20160005675A1 | Preliminary Technical Assessment |
+|---|---|---|
+| Metallic pad supporting both semiconductor dies | First heat sink and second heat sink are recited | Different structural arrangement |
+| First and second semiconductor dies | First and second electronic chips are recited in a stacked arrangement | Component-level similarity |
+| First and second lead sets | Not expressly recited in examined Claim 1 | Not established |
+| Electrical connection of dies to respective lead sets | Not expressly recited in examined Claim 1 | Not established |
+| Electrical connection between the two dies | Claim 1 states that one chip is electrically connected to interfacing substrate circuitry | Complete die-to-die connection not established by this limitation alone |
+| First die controls switching of transistors in second die | No corresponding control relationship is expressly recited | Not established |
+| Electrically insulating material between second die and heat spreader | Claim 1 recites an interfacing substrate; the description identifies a dielectric core within that substrate | Different structural location and relationship |
+| Heat spreader with exposed pad and protrusion | First and second heat sinks are recited, without the same exposed-pad and protrusion arrangement | Specific claimed arrangement not established |
+| Mold compound covering specified package components | Encapsulation appears in dependent Claim 4 | Related disclosure, but not a limitation of examined Claim 1 |
+
+### 28.3 Important Structural Differences
+
+The earlier patent describes a stacked chip arrangement in which an interfacing substrate is positioned between two electronic chips.
+
+The first electronic chip is attached to the first heat sink, while the second electronic chip is attached to the second heat sink.
+
+In contrast, the target patent describes two semiconductor dies attached to a common metallic pad and a heat spreader attached to the second die through electrically insulating material.
+
+These arrangements should be distinguished based on component positions and their structural relationships.
+
+### 28.4 Electrical Interconnection Analysis
+
+Claim 1 of US20160005675A1 states that one of the two electronic chips is electrically connected to circuitry of the interfacing substrate.
+
+Claim 2 further describes circuitry on the opposite main surface and its electrical connection to the other chip.
+
+Therefore, the complete electrical interconnection arrangement should not be attributed to Claim 1 alone without considering the dependent claim and specification.
+
+### 28.5 Insulation Relationship Analysis
+
+The description of US20160005675A1 identifies a dielectric core material within the interfacing substrate.
+
+The target patent describes electrically insulating material between the second semiconductor die and the heat spreader.
+
+Although both disclosures involve electrically non-conductive material, their locations and structural relationships differ.
+
+### 28.6 Preliminary Technical Assessment
+
+The earlier patent discloses semiconductor chips, an interfacing substrate and two heat sinks in a double-sided cooling architecture.
+
+The target patent describes a different package arrangement involving a common metallic pad, switching control between dies, an electrically insulating interface and a heat spreader with specified structural features.
+
+The comparison indicates component-level similarities but also identifies important differences in the disclosed structural relationships.
+
+### 28.7 Scope Limitation
+
+This section is a preliminary technical comparison based on the examined Claim 1 of US20160005675A1 and the identified supporting disclosure.
+
+A feature not expressly recited in the examined independent claim should not automatically be treated as absent from the complete patent document.
+
+This analysis does not establish anticipation, novelty, inventive step, infringement or any other legal conclusion. Such conclusions require a complete review of the relevant claims, specification, drawings and applicable legal standards.
