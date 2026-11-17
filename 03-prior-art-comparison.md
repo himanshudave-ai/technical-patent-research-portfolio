@@ -1477,3 +1477,46 @@ The examined Claim 1 of the earlier patent does not expressly establish the spec
 This analysis is a technical interpretation of the target patent disclosure and the examined earlier patent. The identified technical effects should not be treated as independently proven performance improvements unless supported by relevant experimental data or further disclosure.
 
 This comparison does not establish novelty, inventive step, anticipation, infringement, or any final legal conclusion.
+
+## 31. Claim Terminology and Component Mapping Analysis
+
+### 31.1 Objective
+
+To identify the principal technical terms used in Claim 1 of US11923281B2 and map them to the corresponding components described in the patent specification.
+
+### 31.2 Component and Terminology Mapping
+
+| Claim Terminology | Reference Numeral | Technical Description |
+|---|---:|---|
+| Metallic pad | 22 | Common structural support for the semiconductor dies |
+| First set of leads | 23 | Electrical connection terminals associated with the package |
+| First semiconductor die | 50* | Control die, based on the described functional relationship |
+| Second semiconductor die | 40* | Power-stage die containing switching transistors |
+| Mold compound | 70 | Encapsulating material covering specified package portions |
+| Heat spreader | 80 | Thermal structure associated with the second semiconductor die |
+| Contact pad | 82 | Contact portion of the heat spreader |
+| Protrusion | 83 | Projecting portion of the heat spreader |
+| Exposed pad | 85 | Exposed portion of the heat spreader |
+| Electrically insulating material | 98 | Material positioned between the second die and heat spreader |
+
+*The die mapping is based on the functional descriptions in the specification. The claim language itself identifies the dies by their claimed relationships rather than by these reference numerals.*
+
+### 31.3 Functional Relationships
+
+1. The metallic pad provides common structural support for both semiconductor dies.
+2. The first semiconductor die is electrically connected to the second semiconductor die.
+3. The first semiconductor die performs the claimed control function for switching transistors in the second semiconductor die.
+4. The second semiconductor die is thermally associated with the heat spreader through electrically insulating material.
+5. The mold compound covers specified portions of the package components.
+
+### 31.4 Technical Significance
+
+The terminology and component mapping help distinguish the physical components from their electrical, structural, and thermal relationships.
+
+The functional relationship between the control die and power-stage die is particularly relevant because it defines more than the mere presence of two semiconductor dies within the package.
+
+### 31.5 Scope and Limitation
+
+This mapping is based on the examined claim language and the component descriptions in the target patent specification. Reference numerals are used as an aid to technical interpretation and should not be treated as additional claim limitations.
+
+The analysis does not establish infringement, novelty, inventive step, or any final legal conclusion.
