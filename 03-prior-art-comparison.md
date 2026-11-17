@@ -1346,3 +1346,71 @@ This section is a preliminary technical comparison based on the examined Claim 1
 A feature not expressly recited in the examined independent claim should not automatically be treated as absent from the complete patent document.
 
 This analysis does not establish anticipation, novelty, inventive step, infringement or any other legal conclusion. Such conclusions require a complete review of the relevant claims, specification, drawings and applicable legal standards.
+
+## 29. Technical Relationship and Functional Architecture Analysis
+
+### 29.1 Objective
+
+To examine how the major components recited in Claim 1 of US11923281B2 are structurally and functionally connected within the semiconductor package.
+
+### 29.2 Component Relationship Analysis
+
+**1. Metallic Pad and Semiconductor Dies**
+
+Claim 1 recites a metallic pad supporting both the first and second semiconductor dies.
+
+**Technical Significance:** The metallic pad provides a common structural support for the two dies within the package.
+
+**2. Electrical Connection Between the Dies**
+
+The first semiconductor die is electrically connected to the second semiconductor die.
+
+**Technical Significance:** This connection establishes an electrical relationship between the two dies rather than treating them as independent package components.
+
+**3. Control Functionality**
+
+The first semiconductor die controls switching of transistors in the second semiconductor die.
+
+**Technical Significance:** The claim establishes a functional control relationship between the first die and the transistor switching operation of the second die.
+
+**4. Second Die and Heat Spreader Interface**
+
+The heat spreader is attached to the second semiconductor die through electrically insulating material.
+
+**Technical Significance:** The insulating material forms an interface between the second die and the heat spreader while providing electrical isolation in the claimed arrangement.
+
+**5. Heat Spreader Geometry**
+
+The heat spreader comprises an exposed pad and a protrusion extending from the exposed pad.
+
+**Technical Significance:** These features define the claimed physical configuration of the heat spreader.
+
+**6. Mold Compound and Package Structure**
+
+The mold compound covers specified portions of the first die, second die, metallic pad, and heat spreader.
+
+**Technical Significance:** The mold compound forms part of the package structure while the claim specifies which component portions it covers.
+
+### 29.3 Consolidated Functional Relationship Matrix
+
+| Component / Relationship | Claim 1 Requirement | Technical Role |
+|---|---|---|
+| Metallic pad – first die | First die attached to metallic pad | Structural support |
+| Metallic pad – second die | Second die attached to metallic pad | Structural support |
+| First die – second die | Electrically connected | Electrical interconnection |
+| First die – second die transistors | First die controls transistor switching | Functional control |
+| Second die – heat spreader | Attached through insulating material | Thermal interface with electrical insulation |
+| Exposed pad – protrusion | Protrusion extends from exposed pad | Heat spreader geometry |
+| Mold compound – package components | Covers specified portions | Package encapsulation |
+
+### 29.4 Relationship-Based Technical Observations
+
+1. Claim 1 defines both structural connections and functional relationships between the semiconductor dies.
+2. The first die has a control function associated with transistor switching in the second die.
+3. The second die has a specified interface with the heat spreader through electrically insulating material.
+4. The heat spreader geometry is defined through the exposed pad and its extending protrusion.
+5. The mold compound is described in relation to specified portions of the package components.
+
+### 29.5 Scope and Limitation
+
+This analysis interprets the component relationships expressly recited in Claim 1 of US11923281B2. It is a technical interpretation and does not independently establish the scope of legal protection, infringement, novelty, inventive step, or any final legal conclusion.
