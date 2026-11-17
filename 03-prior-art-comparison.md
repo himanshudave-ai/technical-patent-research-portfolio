@@ -1520,3 +1520,44 @@ The functional relationship between the control die and power-stage die is parti
 This mapping is based on the examined claim language and the component descriptions in the target patent specification. Reference numerals are used as an aid to technical interpretation and should not be treated as additional claim limitations.
 
 The analysis does not establish infringement, novelty, inventive step, or any final legal conclusion.
+
+## 32. Claim Limitation Support in Patent Description and Drawings
+
+### 32.1 Objective
+
+To identify the portions of the target patent specification and drawings that provide technical context for selected limitations of Claim 1 of US11923281B2.
+
+### 32.2 Claim Limitation and Disclosure Mapping
+
+| Claim 1 Limitation | Relevant Description or Figure Context | Technical Interpretation |
+|---|---|---|
+| Metallic pad supporting both semiconductor dies | FIGS. 1A–1E; metallic pad 22 and dies 40, 50 | Illustrates the common structural support arrangement |
+| First and second semiconductor dies | FIGS. 1A–1E; power-stage die 40 and control die 50 | Shows two dies within the semiconductor package |
+| Electrical connection between the dies | FIGS. 1A–1E; wire bonds 34, 35, 36, 37 and 39 | Provides context for the electrical interconnections |
+| First die controlling switching in the second die | FIG. 2; control die 50 and power-stage die 40 | Describes the control functionality associated with the two dies |
+| Electrically insulating material | FIGS. 1A–1E; insulating material 98 | Shows the insulating material associated with the die and heat spreader |
+| Heat spreader with exposed pad and protrusion | FIGS. 1A–1E; heat spreader 80, exposed pad 85 and protrusion 83 | Illustrates the heat spreader structure |
+| Mold compound | FIGS. 1A–1E; mold compound 70 | Shows encapsulation of specified package portions |
+
+### 32.3 Manufacturing Disclosure Context
+
+The manufacturing process described in FIGS. 5A–5D and FIG. 6 provides additional context for the package construction.
+
+The disclosed sequence includes:
+
+1. Mounting the semiconductor dies.
+2. Forming electrical connections through wire bonding.
+3. Placing electrically insulating material.
+4. Aligning the heat spreader structure.
+5. Applying the mold compound.
+6. Singulating the package.
+7. Assembling the package with a printed circuit board and heat sink.
+
+These manufacturing steps help explain how the disclosed package components may be assembled into the described structure.
+
+### 32.4 Technical Observations
+
+1. The patent description and drawings provide structural context for the components recited in Claim 1.
+2. FIG. 2 is relevant to understanding the functional relationship between the control die and power-stage die.
+3. The package drawings help illustrate the relative arrangement of the metallic pad, semiconductor dies, insulating material, and heat spreader.
+4. The manufacturing disclosure provides context for the sequence
