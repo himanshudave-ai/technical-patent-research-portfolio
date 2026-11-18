@@ -1561,3 +1561,84 @@ These manufacturing steps help explain how the disclosed package components may 
 2. FIG. 2 is relevant to understanding the functional relationship between the control die and power-stage die.
 3. The package drawings help illustrate the relative arrangement of the metallic pad, semiconductor dies, insulating material, and heat spreader.
 4. The manufacturing disclosure provides context for the sequence
+
+## 33. Technical Effects and Engineering Rationale of Key Claim Features
+
+### 33.1 Objective
+
+To examine the potential engineering rationale and technical effects associated with selected structural and functional features of Claim 1 of US11923281B2.
+
+### 33.2 Feature-wise Engineering Rationale
+
+**1. Common Metallic Pad Supporting Both Semiconductor Dies**
+
+Claim Feature: Both semiconductor dies are attached to a common metallic pad.
+
+Engineering Rationale: A common metallic support provides a shared mechanical mounting structure for the two dies within the package.
+
+Potential Technical Effect: It establishes a compact structural arrangement for integrating the control and power-stage dies.
+
+**2. Electrical Connection Between the Two Dies**
+
+Claim Feature: The first semiconductor die is electrically connected to the second semiconductor die.
+
+Engineering Rationale: Electrical interconnection allows the two dies to operate as functionally related components within the same package.
+
+Potential Technical Effect: It supports communication and electrical interaction between the control and power-stage portions of the package.
+
+**3. Control Function of the First Die**
+
+Claim Feature: The first semiconductor die controls switching of transistors in the second semiconductor die.
+
+Engineering Rationale: Separating the control function from the power-switching function allows different semiconductor dies to perform distinct roles.
+
+Potential Technical Effect: It provides an integrated control-and-power architecture within a single semiconductor package.
+
+**4. Electrically Insulating Material Between the Second Die and Heat Spreader**
+
+Claim Feature: Electrically insulating material is positioned between the second semiconductor die and the heat spreader.
+
+Engineering Rationale: The insulating layer provides electrical separation at the interface while allowing the disclosed thermal structure to be associated with the power-stage die.
+
+Potential Technical Effect: It supports a package arrangement combining electrical isolation with heat-spreader integration.
+
+**5. Heat Spreader with Exposed Pad and Protrusion**
+
+Claim Feature: The heat spreader includes an exposed pad and a protrusion extending from the exposed pad.
+
+Engineering Rationale: The specified geometry defines the physical configuration of the heat-spreading component within the package.
+
+Potential Technical Effect: It provides a defined thermal-interface structure for integration with an external thermal-management arrangement.
+
+**6. Mold Compound Covering Package Components**
+
+Claim Feature: Mold compound covers specified portions of the semiconductor dies, metallic pad, and heat spreader.
+
+Engineering Rationale: The mold compound forms part of the package encapsulation structure while selected portions remain exposed as described in the patent.
+
+Potential Technical Effect: It provides an integrated encapsulated package structure with designated exposed regions.
+
+### 33.3 Relationship Between Claimed Features
+
+The claimed features should not be considered only as independent components. Their technical significance also depends on how they interact:
+
+1. The metallic pad provides common structural support for both semiconductor dies.
+2. The electrical connection establishes a functional relationship between the dies.
+3. The first die performs the claimed switching-control function for the second die.
+4. The insulating material separates the second die electrically from the heat spreader.
+5. The heat spreader provides the specified thermal structure.
+6. The mold compound forms the encapsulated package around specified portions of these components.
+
+### 33.4 Consolidated Engineering Assessment
+
+Claim 1 describes an integrated semiconductor package combining control functionality, power switching, electrical interconnection, structural support, electrical insulation, and heat-spreader integration.
+
+The potential engineering significance lies in the combination and relationships of these features within one package architecture, rather than merely in the presence of individual components.
+
+### 33.5 Scope and Limitation
+
+The engineering rationales and potential technical effects presented here are technical interpretations of the claimed features and patent disclosure.
+
+They should not be treated as independently proven performance improvements. Quantitative thermal performance, electrical isolation capability, reliability, and efficiency would require appropriate experimental data or supporting technical evidence.
+
+This analysis does not establish novelty, inventive step, anticipation, infringement, or any final legal conclusion.
