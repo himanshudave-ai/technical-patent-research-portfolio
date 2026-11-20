@@ -1765,3 +1765,85 @@ This section combines technical features disclosed in US11923281B2 with general 
 The suggested tests and potential trade-offs are analytical recommendations. They should not be interpreted as experimental results, mandatory claim limitations, or performance benefits established by the patent.
 
 No conclusion regarding infringement, novelty, inventive step, anticipation, or final legal validity is made.
+
+## 35. Patent Evidence Evaluation and Disclosure Assessment
+
+### 35.1 Objective
+
+To evaluate the relevance and evidentiary support of selected disclosures identified in the target patent US11923281B2 and the examined earlier patent US20160005675A1.
+
+The purpose is to distinguish expressly disclosed features, technically related disclosures, and features that are not established in the examined claim language.
+
+### 35.2 Categories of Patent Disclosure
+
+For this preliminary technical comparison, the identified disclosures are classified into the following categories:
+
+**1. Expressly Disclosed**
+
+A feature is expressly disclosed when it is directly stated in the examined claim language or clearly identified in the relevant patent description.
+
+**2. Technically Related Disclosure**
+
+A disclosure is technically related when it addresses a similar component, function, or engineering concept but does not necessarily establish the same structural arrangement or relationship.
+
+**3. Not Established in the Examined Claim**
+
+A feature is not established in the examined claim when the reviewed claim language does not expressly identify that particular limitation.
+
+This classification does not establish whether the feature appears elsewhere in the complete patent specification.
+
+### 35.3 Evidence Assessment of Selected Features
+
+| Technical Feature | Target Patent US11923281B2 | Earlier Patent US20160005675A1 | Evidence Assessment |
+|---|---|---|---|
+| Multiple semiconductor dies or chips | Two semiconductor dies in Claim 1 | Two electronic chips in Claim 1 | Related disclosure |
+| Common metallic pad supporting both dies | Expressly recited in Claim 1 | Not expressly recited in examined Claim 1 | Structural distinction |
+| Electrical interconnection | Electrical connection between the two dies | Electrical connection through interfacing substrate circuitry | Related function, different arrangement |
+| Die-control relationship | Expressly recited in Claim 1 | Not established in examined Claim 1 | Distinguishing feature |
+| Insulating structure | Insulating material between second die and heat spreader | Dielectric core within interfacing substrate | Related concept, different position |
+| Heat dissipation components | Heat spreader with exposed pad and protrusion | First and second heat sinks | Different disclosed arrangements |
+| Encapsulation | Mold compound recited in Claim 1 | Encapsulation addressed in dependent Claim 4 | Related disclosure, different claim placement |
+
+### 35.4 Evidence Relevance and Reliability Considerations
+
+The following factors should be considered when evaluating patent evidence:
+
+1. **Claim Relevance:** Determine whether the evidence addresses the exact limitation being compared.
+2. **Structural Correspondence:** Examine whether the identified components have the same physical arrangement and relationships.
+3. **Functional Correspondence:** Check whether the disclosed components perform the same stated function.
+4. **Disclosure Location:** Identify whether the information appears in an independent claim, dependent claim, description, or drawing.
+5. **Contextual Accuracy:** Interpret technical features in the context of the complete relevant disclosure rather than relying on isolated terminology.
+6. **Source Traceability:** Maintain a reference to the relevant claim, paragraph, figure, or other source location for every important observation.
+
+### 35.5 Preliminary Evidence Assessment
+
+Based on the examined claims and identified patent disclosures:
+
+- Both patents address semiconductor packaging and thermal management.
+- Both disclose multiple semiconductor or electronic chips.
+- Their electrical interconnection arrangements differ.
+- The target patent specifically recites a die-control relationship that is not established in the examined Claim 1 of the earlier patent.
+- The insulating structures occupy different positions in the respective package architectures.
+- The heat dissipation arrangements have different disclosed structural configurations.
+
+These observations identify areas requiring further comparison rather than establishing a legal conclusion.
+
+### 35.6 Evidence Documentation Recommendations
+
+For a professional patent research report, each important comparison should ideally include:
+
+1. Patent number and publication identifier.
+2. Relevant claim number.
+3. Exact technical feature being examined.
+4. Description paragraph or figure reference, where applicable.
+5. Short technical explanation of the evidence.
+6. Assessment category and reason for that classification.
+7. Any limitation or uncertainty in the interpretation.
+
+A structured evidence record improves traceability and makes subsequent technical review more efficient.
+
+### 35.7 Scope and Limitation
+
+This assessment is a preliminary technical evaluation of selected disclosures in the two identified patent documents.
+
+The classification of evidence does not establish anticipation, novelty, inventive step, infringement, or patent validity. A complete legal assessment would require examination of the full patent records, relevant claim interpretation, applicable legal standards, and additional prior art.
