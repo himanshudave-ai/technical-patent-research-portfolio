@@ -1847,3 +1847,120 @@ A structured evidence record improves traceability and makes subsequent technica
 This assessment is a preliminary technical evaluation of selected disclosures in the two identified patent documents.
 
 The classification of evidence does not establish anticipation, novelty, inventive step, infringement, or patent validity. A complete legal assessment would require examination of the full patent records, relevant claim interpretation, applicable legal standards, and additional prior art.
+
+## 36. Claim Chart Quality Control and Consistency Review
+
+### 36.1 Objective
+
+To establish a structured quality-control approach for reviewing the technical accuracy, consistency, and traceability of the Claim 1 analysis of US11923281B2.
+
+The purpose is to identify incomplete mappings, unsupported interpretations, inconsistent terminology, and missing evidence references before finalizing a patent research report.
+
+### 36.2 Claim Element Verification
+
+Each limitation of Claim 1 should be reviewed independently to confirm that the technical mapping accurately represents the claim language.
+
+The following checks should be performed:
+
+1. Verify that every claim limitation has been identified.
+2. Confirm that the technical interpretation preserves the original claim meaning.
+3. Check that relationships between components are correctly represented.
+4. Distinguish physical connections from electrical and thermal relationships.
+5. Confirm that functional limitations are not overlooked.
+6. Avoid introducing features that are not supported by the claim language.
+
+### 36.3 Component and Terminology Consistency
+
+Consistent terminology is essential when reviewing semiconductor package structures.
+
+The following component references should be maintained consistently throughout the analysis:
+
+| Component | Reference Numeral | Consistency Check |
+|---|---|---|
+| Metallic pad | 22 | Common support for both dies |
+| Power-stage die | 40 | Second semiconductor die |
+| Control die | 50 | First semiconductor die |
+| Mold compound | 70 | Encapsulation material |
+| Heat spreader | 80 | Heat dissipation structure |
+| Contact pad | 82 | Heat spreader component |
+| Protrusion | 83 | Part of the heat spreader |
+| Exposed pad | 85 | Exposed heat spreader portion |
+| Insulating material | 98 | Electrical insulation interface |
+
+Reference numerals are technical identification aids and should not be treated as additional claim limitations.
+
+### 36.4 Evidence Traceability Review
+
+Every important technical statement should be traceable to an appropriate source.
+
+The review should include:
+
+1. Patent number and publication identifier.
+2. Claim number and relevant claim limitation.
+3. Description paragraph or figure reference.
+4. Relevant component reference numeral, where applicable.
+5. Explanation of how the cited evidence supports the technical interpretation.
+6. Identification of any inference or uncertainty.
+
+A technical statement should not be presented as an express disclosure when it is based only on an interpretation or inference.
+
+### 36.5 Claim Mapping Consistency Checks
+
+The following examples illustrate important consistency checks for the target patent:
+
+**1. Die Identification**
+
+Verify that the first semiconductor die is consistently mapped to the control die 50 and the second semiconductor die to the power-stage die 40, based on the functional description in the specification.
+
+**2. Electrical Relationship**
+
+Verify that the electrical connection between the two dies is distinguished from their mechanical attachment to the metallic pad.
+
+**3. Thermal and Electrical Isolation**
+
+Confirm that insulating material 98 is described in its correct position between the second die and heat spreader.
+
+**4. Heat Spreader Structure**
+
+Check that exposed pad 85 and protrusion 83 are correctly identified as parts of heat spreader 80.
+
+**5. Encapsulation**
+
+Verify that mold compound 70 is mapped only to the portions of the package specified by the claim.
+
+### 36.6 Prior-Art Comparison Quality Checks
+
+The comparison with US20160005675A1 should be reviewed to ensure that:
+
+1. Similar technical terminology is not automatically treated as identical structure.
+2. The earlier patent's interfacing substrate is distinguished from the target patent's metallic pad.
+3. The dielectric core within the earlier patent's substrate is not equated with insulating material 98 of the target patent.
+4. The earlier patent's separate heat sinks are distinguished from the target patent's heat spreader arrangement.
+5. Features not established in the examined earlier Claim 1 are not incorrectly described as absent from the entire patent document.
+6. Differences in independent and dependent claim placement are accurately recorded.
+
+### 36.7 Final Quality-Control Checklist
+
+Before finalizing the technical patent research report, verify the following:
+
+- [ ] All relevant Claim 1 limitations have been mapped.
+- [ ] Component names and reference numerals are consistent.
+- [ ] Electrical, mechanical, and thermal relationships are distinguished.
+- [ ] Every important technical statement has an identifiable evidence source.
+- [ ] Interpretations and inferences are clearly distinguished from express disclosures.
+- [ ] Prior-art comparisons preserve the structural context of each patent.
+- [ ] Claim language and description disclosures are not incorrectly treated as interchangeable.
+- [ ] Unsupported performance or legal conclusions have been avoided.
+- [ ] Scope and limitations are clearly stated.
+
+### 36.8 Preliminary Quality Assessment
+
+A structured quality-control review improves the reliability, consistency, and traceability of the technical patent analysis.
+
+For the present semiconductor package study, particular attention should be given to die identification, control functionality, insulating material placement, heat spreader geometry, and the structural differences between the target patent and the examined earlier patent.
+
+### 36.9 Scope and Limitation
+
+This quality-control framework is intended for technical review and documentation purposes.
+
+Completion of these checks does not independently establish the accuracy of every interpretation, patent validity, novelty, inventive step, anticipation, or infringement. Legal conclusions require appropriate claim interpretation and review under applicable patent law.
