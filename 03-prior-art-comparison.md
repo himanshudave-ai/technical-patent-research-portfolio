@@ -1964,3 +1964,117 @@ For the present semiconductor package study, particular attention should be give
 This quality-control framework is intended for technical review and documentation purposes.
 
 Completion of these checks does not independently establish the accuracy of every interpretation, patent validity, novelty, inventive step, anticipation, or infringement. Legal conclusions require appropriate claim interpretation and review under applicable patent law.
+
+## 37. Technical Evidence Validation and Source Verification
+
+### 37.1 Objective
+
+To establish a structured method for validating technical statements and claim interpretations against the source documents of the target patent and the examined earlier patent.
+
+This section focuses on verifying claim language, component identification, structural relationships, functional relationships, and drawing references before including technical findings in the patent research analysis.
+
+### 37.2 Source Documents Considered
+
+The following patent documents are considered for evidence verification:
+
+**Target Patent: US11923281B2**
+- Title: Semiconductor Package with Isolated Heat Spreader
+- Analysis Focus: Independent Claim 1
+- Primary Evidence Sources: Claim 1, detailed description, and relevant patent drawings.
+
+**Earlier Patent: US20160005675A1**
+- Title: Double Sided Cooling Chip Package and Method of Manufacturing the Same
+- Analysis Focus: Examined Claim 1 and relevant dependent claims.
+- Primary Evidence Sources: Claim language, detailed description, and relevant patent drawings.
+
+### 37.3 Evidence Validation Categories
+
+The technical evidence should be checked under the following categories:
+
+**1. Claim Language Verification**
+
+Confirm that each technical feature being analyzed is expressly recited in the relevant claim.
+
+**2. Description Verification**
+
+Check the detailed description to understand how the claimed components are implemented and connected.
+
+**3. Drawing Verification**
+
+Use relevant patent figures to understand component placement, physical arrangement, and structural relationships.
+
+**4. Reference Numeral Verification**
+
+Confirm that component reference numerals correspond to the correct components in the patent description and drawings.
+
+**5. Functional Relationship Verification**
+
+Verify whether stated functions, such as electrical control or thermal coupling, are expressly supported by the claim or description.
+
+### 37.4 Target Patent Evidence Review
+
+For US11923281B2, the following evidence points should be verified:
+
+| Technical Feature | Evidence Source to Check | Verification Focus |
+|---|---|---|
+| First and second semiconductor dies | Claim 1 and relevant description | Identification of both dies |
+| Common metallic pad | Claim 1 and package drawings | Attachment of both dies |
+| Electrical connection between dies | Claim 1 and wiring description | Electrical relationship |
+| Die-control functionality | Claim 1 and functional description | Control of switching transistors |
+| Electrically insulating material | Claim 1 and cross-sectional drawings | Position between die and heat spreader |
+| Heat spreader | Claim 1 and package drawings | Exposed pad and protrusion |
+| Mold compound | Claim 1 and package drawings | Coverage of specified package portions |
+
+### 37.5 Earlier Patent Evidence Review
+
+For US20160005675A1, the following evidence points should be verified:
+
+| Technical Feature | Evidence Source to Check | Verification Focus |
+|---|---|---|
+| First and second electronic chips | Claim 1 and description | Identification of both chips |
+| First and second heat sinks | Claim 1 and package drawings | Separate heat sink arrangement |
+| Interfacing substrate | Claim 1 and description | Position between the chips |
+| Substrate circuitry | Claim 1 and description | Electrical interconnection |
+| Dielectric core | Detailed description | Position within the interfacing substrate |
+| Encapsulation | Dependent Claim 4 and description | Encapsulation arrangement |
+
+### 37.6 Evidence Verification Checklist
+
+Before accepting a technical statement in the comparison report, verify the following:
+
+- [ ] The correct patent number and document version have been used.
+- [ ] The relevant claim number has been identified.
+- [ ] The technical feature is supported by the actual claim language or clearly identified as a description-based observation.
+- [ ] The relevant description passage has been checked.
+- [ ] The drawing supports the stated component arrangement, where applicable.
+- [ ] Reference numerals have been cross-checked.
+- [ ] Electrical, structural, and thermal relationships have not been confused.
+- [ ] Inferences have been distinguished from express disclosures.
+- [ ] Any uncertainty or limitation has been documented.
+
+### 37.7 Evidence Recording Format
+
+For consistent documentation, each important technical finding should follow this format:
+
+1. Patent Number
+2. Claim Number
+3. Exact Technical Feature
+4. Source Location (Claim, Description, Figure, or Reference Numeral)
+5. Evidence Summary
+6. Technical Interpretation
+7. Verification Status
+8. Limitations or Uncertainty
+
+This format helps maintain traceability between the original patent disclosure and the technical conclusions presented in the research report.
+
+### 37.8 Preliminary Assessment
+
+A structured evidence verification process helps reduce unsupported interpretations and improves the consistency of claim comparison.
+
+For the present semiconductor package study, particular attention should be given to the common metallic pad, die-control relationship, insulating material placement, heat spreader geometry, and the earlier patent's separate heat sink arrangement.
+
+### 37.9 Scope and Limitation
+
+This section provides a technical evidence verification framework for research and documentation purposes.
+
+The checklist does not independently establish patent validity, novelty, inventive step, anticipation, or infringement. Any legal assessment requires a complete review of the relevant patent records, claim interpretation, applicable legal standards, and additional prior art.
