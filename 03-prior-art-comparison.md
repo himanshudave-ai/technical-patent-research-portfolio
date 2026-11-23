@@ -2078,3 +2078,155 @@ For the present semiconductor package study, particular attention should be give
 This section provides a technical evidence verification framework for research and documentation purposes.
 
 The checklist does not independently establish patent validity, novelty, inventive step, anticipation, or infringement. Any legal assessment requires a complete review of the relevant patent records, claim interpretation, applicable legal standards, and additional prior art.
+
+
+## 38. Expanded Prior-Art Search Strategy and Candidate Screening
+
+### 38.1 Objective
+
+To establish a systematic approach for identifying additional patent documents relevant to the technical features of Claim 1 of US11923281B2.
+
+The objective is to expand the prior-art investigation beyond the initially examined reference and identify documents that may disclose similar semiconductor packaging structures, thermal management arrangements, electrical interconnections, or related functional features.
+
+### 38.2 Key Technical Search Concepts
+
+The following technical concepts can be used as the basis for further prior-art searching:
+
+1. Semiconductor package with isolated heat spreader.
+2. Semiconductor package having multiple semiconductor dies.
+3. Control die and power-stage die integration.
+4. Electrically insulating thermal interface material.
+5. Heat spreader with exposed pad and protruding structure.
+6. Common metallic die-supporting pad.
+7. Semiconductor package with integrated thermal management.
+8. Electrical interconnection between control and power semiconductor dies.
+
+These concepts should be searched individually and in relevant combinations.
+
+### 38.3 Suggested Patent Search Keywords
+
+The following keyword groups may be used to develop search queries:
+
+**Group A – Semiconductor Package Structure**
+
+- Semiconductor package
+- Multi-die package
+- Power semiconductor package
+- Integrated semiconductor module
+- Semiconductor device packaging
+
+**Group B – Thermal Management**
+
+- Heat spreader
+- Thermal management
+- Electrically insulating thermal interface
+- Thermal coupling
+- Heat dissipation structure
+- Exposed thermal pad
+
+**Group C – Electrical and Functional Relationships**
+
+- Control die
+- Power-stage die
+- Switching transistor
+- Electrical interconnection
+- Gate control
+- Integrated power device
+
+**Group D – Mechanical and Structural Arrangement**
+
+- Metallic die pad
+- Common die pad
+- Protruding heat spreader
+- Mold compound
+- Encapsulated semiconductor package
+
+### 38.4 Suggested Search Query Combinations
+
+The following combinations can be used in patent databases:
+
+| Search No. | Suggested Search Query | Primary Search Focus |
+|---|---|---|
+| 1 | "semiconductor package" AND "heat spreader" | Package and thermal structure |
+| 2 | "control die" AND "power die" AND semiconductor | Functional die integration |
+| 3 | "electrically insulating material" AND "heat spreader" | Electrical isolation and thermal interface |
+| 4 | "metallic pad" AND "semiconductor dies" | Common die-support structure |
+| 5 | "exposed pad" AND "protrusion" AND semiconductor package | Heat spreader geometry |
+| 6 | "multi-die package" AND "thermal management" | Integrated package architecture |
+
+These are initial search suggestions and should be adapted to the syntax and capabilities of each patent database.
+
+### 38.5 Patent Search Platforms
+
+The following resources may be used for further investigation:
+
+1. Google Patents – Patent document discovery and citation exploration.
+2. WIPO PATENTSCOPE – International patent publication searching.
+3. Espacenet – Patent searching and patent-family exploration.
+4. USPTO Patent Center and patent search resources – United States patent records.
+
+Search results should be checked against the original patent documents before being included in the comparison.
+
+### 38.6 Candidate Prior-Art Screening Criteria
+
+Each newly identified patent document should be screened using the following criteria:
+
+1. Publication or priority date relevant to the target patent's priority date.
+2. Similarity of semiconductor package architecture.
+3. Presence of multiple semiconductor dies.
+4. Disclosure of control and power-stage functionality.
+5. Presence and location of electrically insulating material.
+6. Heat spreader or heat sink configuration.
+7. Electrical interconnection between semiconductor components.
+8. Availability of supporting claims, description, and drawings.
+
+The relevant date must be evaluated using the applicable patent-law rules. A publication date alone should not be treated as a complete determination of prior-art status.
+
+### 38.7 Candidate Classification Framework
+
+Newly identified documents may be classified as follows:
+
+| Category | Classification Basis |
+|---|---|
+| Highly Relevant | Multiple important structural or functional features appear similar |
+| Technically Relevant | One or more significant technical features are disclosed |
+| Background Reference | Provides general technical context |
+| Low Relevance | Limited technical relationship to the examined Claim 1 |
+
+This classification is intended for research prioritization and does not represent a legal determination of anticipation or invalidity.
+
+### 38.8 Search Documentation Requirements
+
+For every potentially relevant document, record the following information:
+
+1. Patent publication number.
+2. Patent title.
+3. Applicant or assignee.
+4. Priority date.
+5. Publication date.
+6. Relevant claims.
+7. Relevant description paragraphs.
+8. Relevant drawing or figure numbers.
+9. Technical features identified.
+10. Preliminary relevance assessment.
+
+The search process should also record the database, search query, search date, and screening decision.
+
+### 38.9 Next-Step Research Plan
+
+The next stage of the investigation should involve:
+
+1. Running the suggested keyword combinations across patent databases.
+2. Reviewing citation references of the target patent and relevant earlier documents.
+3. Identifying additional documents with potentially similar package architectures.
+4. Checking the relevant dates and patent-family information.
+5. Screening the candidate documents against the technical features of Claim 1.
+6. Selecting the most relevant documents for detailed element-by-element comparison.
+
+### 38.10 Scope and Limitation
+
+This section establishes a proposed prior-art search strategy and candidate-screening framework. The suggested search queries are not verified search results, and no additional prior-art document is established by this section.
+
+A complete prior-art investigation requires actual database searches, review of original patent records, relevant date analysis, and examination of the complete disclosures.
+
+No conclusion regarding novelty, inventive step, anticipation, infringement, or patent validity is made.
