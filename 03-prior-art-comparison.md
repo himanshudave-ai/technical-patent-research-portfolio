@@ -2230,3 +2230,170 @@ This section establishes a proposed prior-art search strategy and candidate-scre
 A complete prior-art investigation requires actual database searches, review of original patent records, relevant date analysis, and examination of the complete disclosures.
 
 No conclusion regarding novelty, inventive step, anticipation, infringement, or patent validity is made.
+
+
+## 39. First-Pass Prior-Art Search and Candidate Identification
+
+### 39.1 Objective
+
+To document the initial execution of the expanded prior-art search strategy developed in Section 38 and identify patent documents that may be technically relevant to Claim 1 of US11923281B2.
+
+The search focuses on semiconductor package architecture, metallic die-support structures, thermal isolation, heat spreaders, and power semiconductor packaging.
+
+### 39.2 Search Methodology
+
+An initial keyword-based search was conducted using combinations of the following concepts:
+
+1. Semiconductor package and heat spreader.
+2. Control die and power die.
+3. Electrically insulating material and thermal interface.
+4. Metallic die pad and multiple semiconductor dies.
+5. Power semiconductor package and thermal management.
+
+The initial search was intended to identify potentially relevant documents for further examination. It was not an exhaustive search of all patent databases.
+
+### 39.3 Search Execution Record
+
+| Search No. | Search Query | Search Focus |
+|---|---|---|
+| 1 | "semiconductor package" AND "heat spreader" | Package thermal structure |
+| 2 | "control die" AND "power die" AND semiconductor | Functional die integration |
+| 3 | "electrically insulating material" AND "heat spreader" | Thermal interface and isolation |
+| 4 | "metallic pad" AND "semiconductor dies" | Die-support structure |
+| 5 | "power semiconductor package" AND "thermal management" | Power package architecture |
+
+Search Date: 24 November 2026
+
+Initial Search Platform: Web-based patent search and patent document resources.
+
+### 39.4 Candidate Patent 1 – US8487417B2
+
+**Patent Title:** Package for a Power Semiconductor Device
+
+**Patent Number:** US8487417B2
+
+**Assignee:** Power Integrations Inc.
+
+**Priority Date:** 15 October 2007
+
+**Publication Date:** 16 July 2013
+
+**Source:** https://patents.google.com/patent/US8487417B2/en
+
+**Relevant Technical Disclosures:**
+
+The examined description discusses:
+
+1. A die attach pad made of electrically conductive material, such as copper alloy.
+2. One or more semiconductor dies mounted on the die attach pad.
+3. Molding compound encapsulating semiconductor components.
+4. A mounting surface designed for attachment to a heat sink.
+5. Electrical isolation of the die attach pad from the mounting surface through a thin molding compound layer in certain package configurations.
+
+**Initial Technical Relevance:**
+
+This document provides earlier technical disclosure concerning power semiconductor packaging, die attach pads, encapsulation, heat transfer, and electrical isolation.
+
+It is a potentially relevant background reference for further comparison.
+
+The examined disclosure does not by itself establish all structural and functional limitations of Claim 1 of US11923281B2.
+
+### 39.5 Candidate Patent 2 – US11302615B2
+
+**Patent Title:** Semiconductor Package with Isolated Heat Spreader
+
+**Patent Number:** US11302615B2
+
+**Assignee:** Texas Instruments Incorporated
+
+**Stated Provisional Priority Date:** 31 December 2019
+
+**Grant Publication Date:** 12 April 2022
+
+**Source:** https://patents.justia.com/patent/11302615
+
+**Relevant Technical Disclosures:**
+
+The document describes:
+
+1. A metallic pad and semiconductor dies.
+2. A heat spreader positioned over a semiconductor die.
+3. Electrically insulating material between the die and heat spreader.
+4. Mold compound covering specified package components.
+5. Examples involving a power stage and an integrated control die.
+
+**Initial Technical Relevance:**
+
+The disclosed package architecture is technically close to the subject matter being investigated.
+
+However, the stated provisional priority date is 31 December 2019, whereas the target patent lists a priority date of 30 December 2019.
+
+Therefore, this document is recorded as a related technical document requiring further priority-chain and patent-family verification. It is not classified as qualifying earlier prior art on the basis of the currently examined dates.
+
+### 39.6 Candidate Patent 3 – EP4517810A1
+
+**Patent Title:** Semiconductor Package and a Method of Manufacturing a Semiconductor Package
+
+**Publication Number:** EP4517810A1
+
+**Applicant:** Infineon Technologies Austria AG
+
+**Filing Date:** 31 August 2023
+
+**Publication Date:** 5 March 2025
+
+**Source:** https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-03-05/patents/EP4517810NWA1/document.pdf
+
+**Relevant Technical Disclosures:**
+
+The document describes:
+
+1. A semiconductor die mounted on a substrate or die pad.
+2. Encapsulation of the semiconductor die and substrate.
+3. A recess formed at an outer surface of the encapsulation.
+4. A thermally conductive material placed within the recess.
+5. Electrical isolation of the material from the substrate and semiconductor die.
+
+**Initial Technical Relevance:**
+
+The document provides a later technical example involving thermal transfer and electrical isolation in semiconductor packages.
+
+Because its filing and publication dates are after the target patent's stated priority date, it is recorded as a later technical reference and not as earlier prior art for the present comparison.
+
+### 39.7 Initial Candidate Screening Matrix
+
+| Patent | Date Position | Technical Focus | Initial Classification |
+|---|---|---|---|
+| US8487417B2 | Earlier | Die attach pad, heat sink, encapsulation, isolation | Potentially relevant earlier reference |
+| US11302615B2 | Stated provisional date after target priority | Isolated heat spreader and multi-die package | Related technical document; date verification required |
+| EP4517810A1 | Later filing and publication | Electrically isolated thermal material | Later technical reference |
+
+### 39.8 Preliminary Search Findings
+
+The initial search identified different approaches to semiconductor package thermal management.
+
+US8487417B2 provides earlier disclosure concerning die attach pads, semiconductor dies, encapsulation, heat-sink mounting, and electrical isolation.
+
+US11302615B2 contains closely related technical features, but its stated provisional priority date is later than the target patent's listed priority date. Its legal and family relationship requires further verification.
+
+EP4517810A1 describes another thermal isolation arrangement but is a later-filed and later-published document.
+
+These documents should not be treated as equivalent prior-art references because their dates, disclosures, and technical relationships differ.
+
+### 39.9 Next-Step Investigation
+
+The next stage should involve:
+
+1. Reviewing the complete claims and description of US8487417B2.
+2. Examining earlier documents cited in its references.
+3. Investigating patent-family and priority information for US11302615B2.
+4. Identifying additional pre-30 December 2019 documents relating to control-die and power-die integration.
+5. Preparing evidence-based element comparisons for the most relevant earlier documents.
+
+### 39.10 Scope and Limitation
+
+This section records an initial search and preliminary screening of selected patent documents.
+
+The search is not exhaustive, and the candidate classifications are preliminary research assessments.
+
+No conclusion regarding anticipation, novelty, inventive step, infringement, or patent validity is made. A complete assessment requires verification of priority entitlement, publication history, patent-family relationships, complete claim language, and applicable patent-law standards.
