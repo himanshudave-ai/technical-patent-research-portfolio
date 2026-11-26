@@ -2576,3 +2576,187 @@ Source: https://patents.google.com/patent/US11923281B2/en
 The examined Claim 1 of US8487417B2 discloses a semiconductor package architecture centered on leadframe geometry and creepage-distance management. The target patent describes a different package architecture involving two semiconductor dies, a control relationship, and an electrically insulated heat-spreader arrangement.
 
 The identified similarities and differences are preliminary technical observations based on the examined claim language and cited disclosure. They do not establish anticipation, novelty, inventive step, infringement, or any final legal conclusion. A complete assessment requires review of the full patent records, relevant claim interpretation, and additional prior-art documents.
+
+## 41. Patent Family and Claim Evolution Analysis – US11302615B2 and US11923281B2
+
+### 41.1 Objective
+
+To examine the patent family relationship between US11302615B2 and US11923281B2 and identify the differences in their independent claim structures.
+
+The analysis focuses on application history, shared priority information, claim scope, semiconductor die configuration, and heat-spreader arrangements.
+
+### 41.2 Patent Family Identification
+
+**Parent Patent**
+
+- Patent Number: US11302615B2
+- Title: Semiconductor Package with Isolated Heat Spreader
+- Application Number: US16/840,407
+- Priority Date: 30 December 2019
+- Filing Date: 5 April 2020
+- Grant Publication Date: 12 April 2022
+- Assignee: Texas Instruments Incorporated
+
+**Continuation Patent**
+
+- Patent Number: US11923281B2
+- Title: Semiconductor Package with Isolated Heat Spreader
+- Application Number: US17/719,246
+- Priority Date: 30 December 2019
+- Filing Date: 12 April 2022
+- Grant Publication Date: 5 March 2024
+- Assignee: Texas Instruments Incorporated
+
+The patent records identify US17/719,246 as a continuation application of US16/840,407. Both applications claim the same priority date and belong to the same patent family.
+
+### 41.3 Parent–Continuation Relationship
+
+US11302615B2 represents the parent application, while US11923281B2 represents its continuation application.
+
+The two patents share:
+
+1. The same patent title.
+2. The same listed inventors.
+3. The same original assignee.
+4. The same priority date of 30 December 2019.
+5. The same identified patent family.
+
+The continuation application provides a separate set of claims within the same patent family.
+
+### 41.4 Independent Claim Structure of the Parent Patent
+
+Claim 1 of US11302615B2 recites:
+
+1. A metallic pad and leads.
+2. A semiconductor die attached to the metallic pad.
+3. A wire bond connecting a bond pad of the semiconductor die to a lead.
+4. A heat spreader positioned over the active side of the semiconductor die.
+5. A gap between the active side of the semiconductor die and the heat spreader.
+6. Electrically insulating material within the gap and in contact with both the die and heat spreader.
+7. Mold compound covering the semiconductor die and wire bond and partially covering the metallic pad and heat spreader.
+8. Exposed metallic-pad and heat-spreader surfaces on respective outer package surfaces.
+
+The parent patent also includes other independent claims addressing package configurations with multiple semiconductor dies.
+
+### 41.5 Independent Claim Structure of the Continuation Patent
+
+Claim 1 of US11923281B2 recites:
+
+1. A metallic pad, a first set of leads, and a second set of leads.
+2. First and second semiconductor dies attached to the metallic pad.
+3. Electrical connections between the respective dies and lead sets.
+4. An electrical connection between the first and second semiconductor dies.
+5. A control relationship in which the first semiconductor die controls switching of transistors in the second semiconductor die.
+6. A heat spreader attached to the second semiconductor die through electrically insulating material.
+7. An exposed pad and a protrusion extending from the exposed pad.
+8. Mold compound covering specified portions of the two dies, metallic pad, and heat spreader.
+
+### 41.6 Comparative Claim Analysis
+
+**1. Semiconductor Die Configuration**
+
+Parent Claim 1:
+Recites one semiconductor die attached to a metallic pad.
+
+Continuation Claim 1:
+Expressly recites two semiconductor dies attached to a common metallic pad.
+
+Observation:
+The continuation Claim 1 expressly defines a two-die package configuration.
+
+**2. Electrical Interconnection**
+
+Parent Claim 1:
+Recites a wire bond connecting a bond pad of the semiconductor die to a lead.
+
+Continuation Claim 1:
+Recites electrical connections between both semiconductor dies and their respective lead sets, as well as an electrical connection between the two dies.
+
+Observation:
+The continuation claim defines additional electrical relationships between package components.
+
+**3. Die-Control Functionality**
+
+Parent Claim 1:
+Does not expressly recite the specific control relationship between two semiconductor dies.
+
+Continuation Claim 1:
+Expressly recites that the first semiconductor die controls switching of transistors in the second semiconductor die.
+
+Observation:
+The continuation claim specifically defines the functional relationship between the two dies.
+
+**4. Heat Spreader Configuration**
+
+Parent Claim 1:
+Recites a heat spreader over the active side of a semiconductor die, with a gap containing electrically insulating material.
+
+Continuation Claim 1:
+Recites a heat spreader attached to the second semiconductor die through electrically insulating material, including an exposed pad and a protrusion.
+
+Observation:
+Both claims address an electrically insulated heat-spreader arrangement, while the continuation claim expressly identifies the exposed-pad and protrusion structure.
+
+**5. Mold Compound**
+
+Parent Claim 1:
+Recites mold compound covering the semiconductor die and wire bond and partially covering the metallic pad and heat spreader.
+
+Continuation Claim 1:
+Recites mold compound covering portions of both semiconductor dies, metallic pad, and heat spreader.
+
+Observation:
+Both claims include mold compound, but the specified component coverage differs.
+
+### 41.7 Consolidated Claim Comparison Matrix
+
+| Feature | Parent Claim 1 – US11302615B2 | Continuation Claim 1 – US11923281B2 |
+|---|---|---|
+| Metallic pad | Expressly recited | Expressly recited |
+| Semiconductor dies | One die | Two dies |
+| Lead arrangement | Leads | First and second lead sets |
+| Die-to-lead connection | Wire bond | Electrical connections to respective lead sets |
+| Die-to-die connection | Not recited in Claim 1 | Expressly recited |
+| Die-control relationship | Not recited in Claim 1 | Expressly recited |
+| Heat spreader | Over active side of die | Attached to second die through insulating material |
+| Electrically insulating material | Within gap | Between second die and heat spreader |
+| Exposed pad and protrusion | Not expressly recited in Claim 1 | Expressly recited |
+| Mold compound | Expressly recited | Expressly recited |
+
+### 41.8 Research Significance
+
+This patent-family analysis demonstrates how related applications can contain different independent claim structures while sharing a common priority date and specification background.
+
+The parent patent's Claim 1 focuses on a semiconductor die and its insulated heat-spreader arrangement. The continuation patent's Claim 1 expressly defines a two-die architecture, die-to-die electrical connection, and control functionality.
+
+The comparison also demonstrates the importance of reviewing each independent claim separately rather than assuming that all patents within the same family have identical claim scope.
+
+### 41.9 Prior-Art Classification and Scope Limitation
+
+US11302615B2 should be recorded as a related parent-family patent, not treated as an independent earlier prior-art reference against US11923281B2 merely because its grant publication date is earlier.
+
+Both records identify 30 December 2019 as the priority date, and the patent records identify US11923281B2 as a continuation of US11302615B2.
+
+Any legal assessment concerning prior-art effect, effective filing dates, priority entitlement, or claim validity requires a separate review of the complete prosecution records and applicable patent law.
+
+This section presents a preliminary patent-family and claim-structure analysis. It does not establish novelty, inventive step, anticipation, infringement, or any final legal conclusion.
+
+### 41.10 Source References
+
+**Parent Patent – US11302615B2**
+
+https://patents.google.com/patent/US11302615B2/en
+
+Relevant portions:
+- Bibliographic information and application history.
+- Claim 1 and other independent claims.
+- Related child applications and patent-family information.
+
+**Continuation Patent – US11923281B2**
+
+https://patents.google.com/patent/US11923281B2/en
+
+Relevant portions:
+- Bibliographic information and application history.
+- Claim 1 and other independent claims.
+- Related parent applications and patent-family information.
