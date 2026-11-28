@@ -3167,3 +3167,284 @@ A feature not expressly recited in an examined independent claim should not auto
 The comparison does not independently establish anticipation, novelty, inventive step, infringement, or patent validity.
 
 A complete legal assessment requires examination of the full patent documents, relevant priority and publication dates, claim construction, and additional potentially relevant prior-art references.
+
+
+## 45. Evidence-Based Relationship Verification
+
+### 45.1 Objective of Evidence Verification
+
+This section verifies the relationship-level observations recorded in Section 44 against the available patent documents.
+
+The analysis identifies the relevant claim language, description passages, and figures supporting each technical observation.
+
+The purpose is to maintain traceability between the original patent disclosure and the technical comparison.
+
+The verification distinguishes between:
+
+1. Features expressly recited in the examined independent claims.
+2. Supporting implementation details found in the patent descriptions.
+3. Technical interpretations derived from the disclosed structures and relationships.
+
+### 45.2 Evidence for Common Support Structure
+
+**Target Patent – US11923281B2**
+
+Evidence location:
+- Claim 1.
+- Description of semiconductor package 10.
+- FIGS. 1A–1E.
+
+Evidence identified:
+
+Claim 1 expressly requires the first and second semiconductor dies to be attached to the metallic pad.
+
+The description of package 10 illustrates semiconductor dies 40 and 50 mounted on metallic pad 22.
+
+Technical verification:
+
+The common metallic-pad relationship is supported by both the independent claim and the illustrated package embodiment.
+
+**Earlier Patent – US20160005675A1**
+
+Evidence location:
+- Claim 1.
+- Description of the stacked chip arrangement.
+- FIG. 2.
+
+Evidence identified:
+
+Claim 1 describes a first electronic chip and a second electronic chip with an interfacing substrate between them. The respective chips are attached to first and second heat sinks.
+
+Technical verification:
+
+The earlier document supports a different support arrangement involving separate heat sinks and an interfacing substrate.
+
+### 45.3 Evidence for Electrical Interconnection
+
+**Target Patent – US11923281B2**
+
+Evidence location:
+- Claim 1.
+- Description of wire bonds in FIGS. 1A–1E.
+
+Evidence identified:
+
+Claim 1 expressly requires the first semiconductor die to be electrically connected to the second semiconductor die.
+
+The package description identifies wire bonds 37 and 39 among the illustrated electrical interconnections.
+
+Technical verification:
+
+The claim establishes the required die-to-die electrical relationship. The description provides an illustrative implementation using wire bonds.
+
+**Earlier Patent – US20160005675A1**
+
+Evidence location:
+- Claim 1.
+- Description of interfacing substrate 212.
+- Description of conductive layers 216 and 217 and associated electrical connections.
+
+Evidence identified:
+
+Claim 1 requires circuitry on at least one main surface of the interfacing substrate and an electrical connection between one of the chips and that circuitry.
+
+The description provides additional examples of electrical connections involving the substrate and the two chips.
+
+Technical verification:
+
+The earlier document supports substrate-associated electrical interconnection. Its examined Claim 1 does not expressly recite the same die-to-die electrical relationship as the target claim.
+
+### 45.4 Evidence for Functional Switching Control
+
+**Target Patent – US11923281B2**
+
+Evidence location:
+- Claim 1.
+- Description of semiconductor dies 40 and 50.
+- Description of semiconductor package 510.
+
+Evidence identified:
+
+Claim 1 expressly states that the first semiconductor die is configured to control switching of transistors in the second semiconductor die.
+
+The description identifies control die 50 and power-stage die 40 as an illustrative implementation.
+
+Technical verification:
+
+The functional switching-control relationship is expressly established by the target Claim 1. The description provides additional context for the control-die and power-stage-die arrangement.
+
+**Earlier Patent – US20160005675A1**
+
+Evidence location:
+- Claim 1.
+- Description of the first and second electronic chips and interfacing substrate.
+
+Evidence identified:
+
+The examined Claim 1 describes chip-to-substrate electrical connectivity.
+
+It does not expressly recite the same switching-control function between the two chips.
+
+Technical verification:
+
+The examined earlier Claim 1 does not establish the specific switching-control relationship expressly required by the target claim. This observation is limited to the examined claim language.
+
+### 45.5 Evidence for Heat-Management Relationships
+
+**Target Patent – US11923281B2**
+
+Evidence location:
+- Claim 1.
+- Description of heat spreader 80.
+- FIGS. 1A–1E and relevant heat-spreader embodiments.
+
+Evidence identified:
+
+Claim 1 requires a heat spreader attached to the second semiconductor die through electrically insulating material.
+
+It also expressly recites an exposed pad and a protrusion extending from that pad.
+
+The description identifies heat spreader 80 and associated structural features.
+
+Technical verification:
+
+The claimed die-to-heat-spreader attachment and exposed-pad/protrusion geometry are supported by the target claim and its illustrated embodiments.
+
+**Earlier Patent – US20160005675A1**
+
+Evidence location:
+- Claim 1.
+- Description of first heat sink 110 and second heat sink 106.
+- FIG. 2.
+
+Evidence identified:
+
+The earlier claim specifies separate heat sinks attached to the respective electronic chips.
+
+The description provides examples of chip attachment through solder layers and other connecting structures.
+
+Technical verification:
+
+The earlier document supports a separate heat-sink arrangement rather than the specific single heat-spreader relationship recited in the target Claim 1.
+
+### 45.6 Evidence for Electrically Insulating Material
+
+**Target Patent – US11923281B2**
+
+Evidence location:
+- Claim 1.
+- Description of electrically insulating material 98.
+- Description of heat spreader 80 and semiconductor die 40.
+
+Evidence identified:
+
+Claim 1 requires electrically insulating material between the second semiconductor die and the heat spreader.
+
+The description identifies electrically insulating material 98 and gives examples including mold compound, non-conductive thermal interface material, and a ceramic shim.
+
+Technical verification:
+
+The target disclosure supports the insulating interface between the semiconductor die and heat spreader.
+
+**Earlier Patent – US20160005675A1**
+
+Evidence location:
+- Description of interfacing substrate 212.
+- Description of core material 215.
+- FIG. 2.
+
+Evidence identified:
+
+The earlier description identifies a possible dielectric core within the interfacing substrate.
+
+Technical verification:
+
+The dielectric core belongs to the interfacing substrate. Its position and structural role differ from the target patent's insulating material between a semiconductor die and heat spreader.
+
+### 45.7 Evidence for Encapsulation
+
+**Target Patent – US11923281B2**
+
+Evidence location:
+- Claim 1.
+- Description of mold compound 70.
+- FIGS. 1A–1E.
+
+Evidence identified:
+
+Claim 1 requires mold compound covering portions of the first die, second die, metallic pad, and heat spreader.
+
+The description identifies mold compound 70 as part of the package structure.
+
+Technical verification:
+
+The target independent claim expressly includes the specified mold-compound coverage relationship.
+
+**Earlier Patent – US20160005675A1**
+
+Evidence location:
+- Claim 4.
+- Description of encapsulation material 108.
+- FIG. 2.
+
+Evidence identified:
+
+The earlier patent describes encapsulation material 108 around the electronic components. Encapsulation is also addressed in dependent Claim 4.
+
+Technical verification:
+
+The earlier disclosure supports encapsulation, but the examined earlier Claim 1 does not expressly recite the same mold-compound coverage limitations as the target Claim 1.
+
+### 45.8 Consolidated Evidence Verification Matrix
+
+| Technical Relationship | Target Patent Evidence | Earlier Patent Evidence | Verification Observation |
+|---|---|---|---|
+| Common support | Claim 1; FIGS. 1A–1E | Claim 1; FIG. 2 | Different support arrangements |
+| Die-to-die electrical connection | Claim 1; wire bonds 37 and 39 in description | Claim 1; substrate circuitry | Different expressly described relationships |
+| Switching control | Claim 1; description of dies 40 and 50 | No equivalent function expressly recited in examined Claim 1 | Functional distinction |
+| Heat-spreader attachment | Claim 1; heat spreader 80 | Claim 1; heat sinks 106 and 110 | Different thermal arrangements |
+| Insulating interface | Claim 1; insulating material 98 | Description of dielectric core 215 | Different position and structural role |
+| Exposed pad and protrusion | Claim 1; heat spreader description | Same relationship not expressly recited in examined Claim 1 | Structural distinction |
+| Encapsulation | Claim 1; mold compound 70 | Claim 4; encapsulation material 108 | Both disclose encapsulation, but claim placement differs |
+
+### 45.9 Source References
+
+**Target Patent – US11923281B2**
+
+Google Patents:
+https://patents.google.com/patent/US11923281B2/en
+
+Relevant evidence:
+- Claim 1.
+- Description of semiconductor dies 40 and 50.
+- Description of metallic pad 22.
+- Description of heat spreader 80.
+- Description of electrically insulating material 98.
+- Description of mold compound 70.
+- FIGS. 1A–1E and other relevant embodiments.
+
+**Earlier Patent – US20160005675A1**
+
+Google Patents:
+https://patents.google.com/patent/US20160005675A1/en
+
+Relevant evidence:
+- Claim 1.
+- Dependent Claim 4.
+- Description of interfacing substrate 212.
+- Description of core material 215.
+- Description of heat sinks 106 and 110.
+- Description of encapsulation material 108.
+- FIG. 2 and relevant manufacturing disclosure.
+
+### 45.10 Scope and Limitation
+
+This section records evidence locations and preliminary technical verification for the relationships compared in Section 44.
+
+The evidence references identify relevant claim language, description passages, and figures. They do not replace a complete review of the original patent documents.
+
+A feature not expressly recited in an examined claim should not automatically be treated as absent from the complete patent disclosure.
+
+The observations do not independently establish anticipation, novelty, inventive step, infringement, or patent validity.
+
+Any legal conclusion requires complete claim interpretation, review of relevant prior-art disclosures, and application of the appropriate patent-law standards.
