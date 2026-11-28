@@ -2870,3 +2870,118 @@ This section provides a technical interpretation of the elements and relationshi
 It does not independently establish patent novelty, inventive step, anticipation, infringement, or validity.
 
 Any legal assessment requires a complete review of the relevant patent records, claim interpretation, and applicable patent-law standards.
+
+## 43. Functional and Structural Relationship Mapping of Claim 1
+
+### 43.1 Objective of Relationship Mapping
+
+This section examines the functional and structural relationships between the elements recited in Claim 1 of US11923281B2.
+
+The purpose is to understand how the individual package components interact with one another and how their relationships contribute to the claimed semiconductor package architecture.
+
+The analysis focuses on expressly recited claim relationships and distinguishes them from additional implementation details described in the patent specification.
+
+### 43.2 Die-to-Metallic-Pad Relationship
+
+Claim 1 requires a first semiconductor die and a second semiconductor die attached to a common metallic pad.
+
+This arrangement establishes a shared structural support for both semiconductor dies.
+
+The relationship is significant because the two dies are not merely present within the same package; both are expressly attached to the same metallic pad.
+
+Technical significance:
+
+1. The metallic pad provides a common mounting structure for the two dies.
+2. Both dies are structurally integrated into the same package assembly.
+3. The common-pad arrangement is a specific structural limitation of Claim 1.
+
+### 43.3 Die-to-Lead Electrical Relationships
+
+Claim 1 specifies separate electrical connections between the semiconductor dies and their respective lead sets.
+
+The first semiconductor die is electrically connected to the first set of leads, while the second semiconductor die is electrically connected to the second set of leads.
+
+These relationships establish separate external electrical connection paths for the two dies.
+
+Technical significance:
+
+1. The first die has an electrical connection to the first lead set.
+2. The second die has an electrical connection to the second lead set.
+3. The claim expressly distinguishes the two lead sets and their corresponding die connections.
+
+### 43.4 Die-to-Die Electrical and Functional Relationship
+
+Claim 1 further requires the first semiconductor die to be electrically connected to the second semiconductor die.
+
+In addition to this electrical connection, the first semiconductor die is configured to control switching of transistors in the second semiconductor die.
+
+This establishes both an electrical relationship and a functional control relationship between the two dies.
+
+Technical significance:
+
+1. The two semiconductor dies are electrically interconnected.
+2. The first die performs a switching-control function.
+3. The controlled transistors are located in the second die.
+4. The claim therefore defines a functional relationship between the control and power-stage portions of the package.
+
+The patent description identifies control die 50 and power-stage die 40 as an illustrative implementation of this arrangement.
+
+### 43.5 Die-to-Heat-Spreader Relationship
+
+Claim 1 requires a heat spreader attached to the second semiconductor die through an electrically insulating material.
+
+The insulating material is positioned between the second die and the heat spreader and provides an electrically insulating interface.
+
+The heat spreader also includes an exposed pad and a protrusion extending from the exposed pad.
+
+Technical significance:
+
+1. The heat spreader is structurally associated with the second semiconductor die.
+2. The electrically insulating material forms the specified interface between them.
+3. The heat spreader provides a defined thermal-management structure.
+4. The exposed pad and protrusion are expressly recited structural features.
+
+### 43.6 Mold Compound and Package Integration
+
+Claim 1 requires mold compound covering portions of the first semiconductor die, the second semiconductor die, the metallic pad, and the heat spreader.
+
+This establishes a package-level encapsulation relationship involving multiple structural components.
+
+The claim specifies partial coverage of these components rather than requiring that every surface be completely encapsulated.
+
+Technical significance:
+
+1. The mold compound integrates multiple components within the package structure.
+2. The claim identifies the particular components that must be partially covered.
+3. The specified coverage must be considered together with the exposed heat-spreader pad and protrusion.
+
+### 43.7 Consolidated Relationship Matrix
+
+| Relationship | Claim 1 Requirement | Technical Role |
+|---|---|---|
+| First die – metallic pad | Attached | Structural mounting |
+| Second die – metallic pad | Attached | Structural mounting |
+| First die – first lead set | Electrically connected | External electrical path |
+| Second die – second lead set | Electrically connected | External electrical path |
+| First die – second die | Electrically connected | Die-to-die interconnection |
+| First die – second die transistors | First die controls switching | Functional control |
+| Second die – heat spreader | Attached through electrically insulating material | Insulated thermal interface |
+| Heat spreader – exposed pad | Exposed pad included | Structural feature |
+| Heat spreader – protrusion | Protrusion extends from exposed pad | Structural feature |
+| Mold compound – package components | Covers specified portions | Package integration |
+
+### 43.8 Overall Technical Interpretation
+
+Claim 1 defines a semiconductor package through a combination of structural, electrical, functional, thermal, and encapsulation relationships.
+
+The claimed architecture combines two semiconductor dies mounted on a common metallic pad, separate lead connections, an electrical and functional relationship between the dies, and an insulated heat-spreader arrangement associated with the second die.
+
+These relationships should be evaluated together rather than treating each component as an isolated feature.
+
+### 43.9 Scope and Limitation
+
+This section provides a technical interpretation of the relationships expressly recited in Claim 1 of US11923281B2.
+
+The component descriptions and implementation details in the patent specification may provide additional context, but they should not automatically be treated as limitations of Claim 1.
+
+This relationship mapping does not independently establish anticipation, novelty, inventive step, infringement, or patent validity. Any legal assessment requires complete claim interpretation, review of relevant prior-art disclosures, and application of the appropriate patent-law standards.
